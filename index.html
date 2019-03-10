@@ -3,7 +3,9 @@ layout: default
 current: home
 class: 'home-template'
 navigation: True
-cover: null
+cover: ''
+logo: ''
+description: 'I design, engineer, and build beautiful systems.' #'Engineer, Researcher, Designer - Human Computer Interaction, User Experience'
 ---
 
 <!-- < default -->
@@ -11,19 +13,15 @@ cover: null
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+<header class="site-header outer">
     <div class="inner">
+        {% include site-nav.html %}
         <div class="site-header-content">
             <h1 class="site-title">
-                {% if site.logo %}
-                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
-                {% else %}
-                    {{ site.title }}
-                {% endif %}
+                Hello, I'm Lahiru.
             </h1>
             <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
         </div>
-        {% include site-nav.html %}
     </div>
 </header>
 
