@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/tag/ixd/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-03-10T23:31:47+00:00</updated>
-  <id>/tag/ixd/feed.xml</id>
+  <link href="/jasper2/tag/ixd/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/jasper2/" rel="alternate" type="text/html" />
+  <updated>2019-03-10T23:42:55+00:00</updated>
+  <id>/jasper2/tag/ixd/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Magic Wand</title>
-      <link href="/welcome" rel="alternate" type="text/html" title="Magic Wand" />
+      <link href="/jasper2/welcome" rel="alternate" type="text/html" title="Magic Wand" />
       <published>2017-07-27T10:00:00+00:00</published>
       <updated>2017-07-27T10:00:00+00:00</updated>
-      <id>/welcome</id>
-      <content type="html" xml:base="/welcome">&lt;p&gt;A handheld device with a fully cylindrical user interface. The device, dubbed MagicWand, has a wide range of possible applications, including the use of as a game controller.&lt;/p&gt;
+      <id>/jasper2/welcome</id>
+      <content type="html" xml:base="/jasper2/welcome">&lt;p&gt;A handheld device with a fully cylindrical user interface. The device, dubbed MagicWand, has a wide range of possible applications, including the use of as a game controller.&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
 Winter 2016&lt;br /&gt;
