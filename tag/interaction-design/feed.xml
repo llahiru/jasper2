@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/jasper2/tag/interaction-design/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/jasper2/" rel="alternate" type="text/html" />
-  <updated>2019-03-10T23:42:55+00:00</updated>
-  <id>/jasper2/tag/interaction-design/feed.xml</id>
+  <link href="/portfolio/tag/interaction-design/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/portfolio/" rel="alternate" type="text/html" />
+  <updated>2019-03-11T00:29:34+00:00</updated>
+  <id>/portfolio/tag/interaction-design/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Using the Ghost editor</title>
-      <link href="/jasper2/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" />
+      <link href="/portfolio/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" />
       <published>2017-07-27T09:00:00+00:00</published>
       <updated>2017-07-27T09:00:00+00:00</updated>
-      <id>/jasper2/the-editor</id>
-      <content type="html" xml:base="/jasper2/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
+      <id>/portfolio/the-editor</id>
+      <content type="html" xml:base="/portfolio/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
 &lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.&lt;/p&gt;
 &lt;p&gt;At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a &lt;strong&gt;?&lt;/strong&gt; icon, which contains more advanced shortcuts.&lt;/p&gt;
 &lt;p&gt;For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used.&lt;/p&gt;

@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/jasper2/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/jasper2/" rel="alternate" type="text/html" />
-  <updated>2019-03-10T23:42:55+00:00</updated>
-  <id>/jasper2/tag/getting-started/feed.xml</id>
+  <link href="/portfolio/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/portfolio/" rel="alternate" type="text/html" />
+  <updated>2019-03-11T00:29:34+00:00</updated>
+  <id>/portfolio/tag/getting-started/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Organising your content with tags</title>
-      <link href="/jasper2/using-tags" rel="alternate" type="text/html" title="Organising your content with tags" />
+      <link href="/portfolio/using-tags" rel="alternate" type="text/html" title="Organising your content with tags" />
       <published>2017-07-27T08:00:00+00:00</published>
       <updated>2017-07-27T08:00:00+00:00</updated>
-      <id>/jasper2/using-tags</id>
-      <content type="html" xml:base="/jasper2/using-tags">&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
+      <id>/portfolio/using-tags</id>
+      <content type="html" xml:base="/portfolio/using-tags">&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
 &lt;p&gt;It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.&lt;/p&gt;
 &lt;h2 id=&quot;basictagging&quot;&gt;Basic tagging&lt;/h2&gt;
 &lt;p&gt;When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with &lt;code&gt;News&lt;/code&gt; and other posts with &lt;code&gt;Cycling&lt;/code&gt;, which would create two distinct categories of content listed on &lt;code&gt;/tag/news/&lt;/code&gt; and &lt;code&gt;/tag/cycling/&lt;/code&gt;, respectively.&lt;/p&gt;
@@ -92,11 +92,11 @@
   
     <entry>
       <title type="html">Making your site private</title>
-      <link href="/jasper2/private-sites" rel="alternate" type="text/html" title="Making your site private" />
+      <link href="/portfolio/private-sites" rel="alternate" type="text/html" title="Making your site private" />
       <published>2017-07-27T06:00:00+00:00</published>
       <updated>2017-07-27T06:00:00+00:00</updated>
-      <id>/jasper2/private-sites</id>
-      <content type="html" xml:base="/jasper2/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
+      <id>/portfolio/private-sites</id>
+      <content type="html" xml:base="/portfolio/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
 &lt;p&gt;If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
 &lt;p&gt;You can toggle this preference on at the bottom of Ghost's General Settings&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot;&gt;&lt;/p&gt;
@@ -131,11 +131,11 @@
   
     <entry>
       <title type="html">Setting up your own Ghost theme</title>
-      <link href="/jasper2/themes" rel="alternate" type="text/html" title="Setting up your own Ghost theme" />
+      <link href="/portfolio/themes" rel="alternate" type="text/html" title="Setting up your own Ghost theme" />
       <published>2017-07-27T04:00:00+00:00</published>
       <updated>2017-07-27T04:00:00+00:00</updated>
-      <id>/jasper2/themes</id>
-      <content type="html" xml:base="/jasper2/themes">&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
+      <id>/portfolio/themes</id>
+      <content type="html" xml:base="/portfolio/themes">&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
 &lt;p&gt;Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;
 &lt;p&gt;There are a huge range of both free and premium pre-built themes which you can get from the &lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;Ghost Theme Marketplace&lt;/a&gt;, or you can simply create your own from scratch.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/marketplace.jpg&quot; alt=&quot;marketplace&quot;&gt;&lt;/a&gt;&lt;/p&gt;
