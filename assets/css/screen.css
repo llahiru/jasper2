@@ -426,7 +426,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-tags {
-    display: block;
+    /*display: block;*/
     margin-bottom: 4px;
     color: var(--midgrey);
     font-size: 1.2rem;
@@ -685,6 +685,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-full-content dl,
 .post-full-content pre,
 .post-full-content blockquote,
+.post-full-content figure,
 .post-full-comments,
 .footnotes {
     min-width: 100%;
@@ -730,7 +731,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-full-content img,
 .post-full-content video {
     display: block;
-    margin: 1.5em auto;
+    /*margin: 1.5em auto;*/
     max-width: 1040px;
 }
 @media (max-width: 1040px) {
@@ -1921,4 +1922,13 @@ Usage (In Ghost editor):
     margin: 0px 0px 20px;
     font-family: sans-serif;
     font-size: 0.85em;
+}
+
+.post-full-content .caption {
+    /*margin-top: -50px;*/
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: left;
+    padding-bottom: 20px;
+    color: var(--midgrey);
 }

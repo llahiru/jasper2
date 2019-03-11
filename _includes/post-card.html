@@ -8,21 +8,21 @@
         <div class="post-card-content">
             <a class="post-card-content-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
                 <header class="post-card-header">
-                    {% if post.tags.size > 0 %}
-                        {% for tag in post.tags %}
-                            {% if forloop.index == post.tags.size %}
-                                <span class="post-card-tags">{{ tag | capitalize }}</span>
-                            {% else %}
-                               <span class="post-card-tags">{{ tag | capitalize }}</span>
-                            {% endif %}
-                        {% endfor %}
-                    {% endif %}
-
                     <h2 class="post-card-title">{{ post.title }}</h2>
                 </header>
                 <section class="post-card-excerpt">
                     <p>{{ post.content | strip_html | truncatewords: 28, "" }}</p>
                 </section>
+                <span class="post-card-tags">{{ post.type }}: </span>
+                {% if post.tags.size > 0 %}
+                    {% for tag in post.tags %}
+                        {% if forloop.index == post.tags.size %}
+                            <span class="post-card-tags">{{ tag | capitalize }}</span>
+                        {% else %}
+                           <span class="post-card-tags">{{ tag | capitalize }}.</span>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
             </a>
             <footer class="post-card-meta">
                 {% for author in site.data.authors %}
