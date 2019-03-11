@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/prototyping/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-11T00:29:34+00:00</updated>
+  <updated>2019-03-11T14:31:59+00:00</updated>
   <id>/portfolio/tag/prototyping/feed.xml</id>
 
   
@@ -32,34 +32,70 @@
 
   
     <entry>
-      <title type="html">Magic Wand</title>
-      <link href="/portfolio/welcome" rel="alternate" type="text/html" title="Magic Wand" />
+      <title type="html">MagicWand</title>
+      <link href="/portfolio/welcome" rel="alternate" type="text/html" title="MagicWand" />
       <published>2017-07-27T10:00:00+00:00</published>
       <updated>2017-07-27T10:00:00+00:00</updated>
       <id>/portfolio/welcome</id>
       <content type="html" xml:base="/portfolio/welcome">&lt;p&gt;A handheld device with a fully cylindrical user interface. The device, dubbed MagicWand, has a wide range of possible applications, including the use of as a game controller.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;assets/images/magic_wand_a.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
-Winter 2016&lt;br /&gt;
-Research conducted at the Human Media Lab, Queen’s University&lt;br /&gt;
-Product Design, User Interaction Design, Prototyping, Research &amp;amp; Evaluation&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;strong&gt;Timeline:&lt;/strong&gt; Winter 2016&lt;br /&gt;
+&lt;strong&gt;Project:&lt;/strong&gt; Research conducted at the Human Media Lab, Queen’s University&lt;br /&gt;
+&lt;strong&gt;Type:&lt;/strong&gt; Product Design, Interaction Design, Prototyping, Research &amp;amp; Evaluation&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;Modern smartphones with traditional flat screens offer poor affordances for gestural interactions. The flat form factor prevents a comfortable grip hindering wrist movements. Display area of flat devices can only be viewed from one side, and the visibility reduces when the device is rotated.&lt;/p&gt;
 
-&lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
+&lt;h2 id=&quot;the-challenge&quot;&gt;The Challenge&lt;/h2&gt;
+&lt;p&gt;How might we create a new display form factor that will offer physical affordances for actions that are quite different from those of a traditional flat form factor of a smartphone.&lt;/p&gt;
 
-&lt;h3 id=&quot;there-are-a-few-things-that-you-should-know-up-front&quot;&gt;There are a few things that you should know up-front:&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for. If you’re using Ghost for some other purpose, that’s fine too - but it might not be the best choice for you.&lt;/li&gt;
-  &lt;li&gt;The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so &lt;strong&gt;does&lt;/strong&gt; require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.&lt;/li&gt;
-  &lt;li&gt;For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;the-solution&quot;&gt;The Solution&lt;/h2&gt;
+&lt;p&gt;A cylindrical device with a cylindrical display form factor that allows users to perform natural gestures and explore the display area.&lt;/p&gt;
 
-&lt;p&gt;Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our &lt;a href=&quot;https://ghost.org/pricing&quot;&gt;Ghost(Pro)&lt;/a&gt; service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.&lt;/p&gt;
+&lt;p&gt;To exhibit interactions with our prototype, an application scenario was developed where MagicWand was used as a game controller that can display a variety of 3D game elements.&lt;/p&gt;
 
-&lt;p&gt;The main thing you’ll want to read about next is probably: &lt;a href=&quot;https://demo.ghost.io/the-editor/&quot;&gt;the Ghost editor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The cylindrical form factor provides a comfortable grip when performing gestural interactions. The physical affordance of this novel display device could affect the speed with which users learned specific gestures to operate the graphical elements on display.&lt;/p&gt;
 
-&lt;p&gt;Once you’re done reading, you can simply delete the default &lt;strong&gt;Ghost&lt;/strong&gt; user from your team to remove all of these introductory posts!&lt;/p&gt;</content>
+&lt;p&gt;Success measures of the product revolve around how quickly a user can guess and performs an interaction based on the affordances provided by the cylindrical form factor and the visuals on the display.&lt;/p&gt;
+
+&lt;h2 id=&quot;research&quot;&gt;Research&lt;/h2&gt;
+&lt;p&gt;To bring our product into fruition, we first had to empathize and understand how humans associate with affordances. We started by looking for inspirations from Don Norman’s work on affordances in “Design of Everyday Things”. We learned that affordances are generated by matching the fit of the body under action to the physical shape of an object. For example, a vertical door handle affords pulling, whereas a horizontal flat bar affords pushing to open. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Wrist movements.&lt;/p&gt;
+
+&lt;p&gt;To bring our product into fruition, we first had to empathize and understand the current standing of asthma inhalers and their users. We started by conversing with doctors, pharmacists, parents, and day to day users. Our conversations educated us in better understanding the daily challenges of having asthma and inhalers themselves.&lt;/p&gt;
+
+&lt;p&gt;Following our primary research, we then moved onto creating a PACT analysis that helped our team get a general understanding of asthma and the pain points we wanted to help alleviate.&lt;/p&gt;
+
+&lt;p&gt;Using our initial research and analysis, we then created user personas to help us narrow in who we were designing for and its solutions.&lt;/p&gt;
+
+&lt;h2 id=&quot;ideation-process&quot;&gt;Ideation Process&lt;/h2&gt;
+&lt;p&gt;We started ideating our product by following a set of questions to guide us through the process. Some of these questions were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How can we design a product that is inviting and fun for kids to use?&lt;/li&gt;
+  &lt;li&gt;How can we involve some sort of personal experience within the product?&lt;/li&gt;
+  &lt;li&gt;How can we simplify the overall experience and process of using an inhaler?&lt;/li&gt;
+  &lt;li&gt;How could we create a peace of mind for parents?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With these questions in mind we began sketching out how our product might look like and kept note of why it was designed that way.&lt;/p&gt;
+
+&lt;p&gt;After several days of ideation between our team, we presented our concept to professors, parents, and doctors in order to receive feedback on our initial product. After digesting the feedback, we moved onto creating our MVP (Most viable product) and members of our began the 3D design process for the final printed mold.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-physical-product&quot;&gt;The Physical Product&lt;/h2&gt;
+&lt;p&gt;Our end product exerts a fun and inviting tone towards children. Our Oble inhaler can be personalized by swapping in and out different silicone characters. Children can now take their medication without the feeling of being looked down upon and use their inhalers with confidence.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;[Norman Doors] (https://www.youtube.com/watch?v=yY96hTb8WgI) &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content>
 
       
       
