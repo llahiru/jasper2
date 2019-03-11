@@ -1377,7 +1377,7 @@ Usage (In Ghost editor):
     z-index: 1000;
     display: flex;
     align-items: center;
-    height: 60px;
+    height: 40px;
     border-bottom: rgba(0,0,0,0.06) 1px solid;
     background: rgba(255,255,255,0.95);
     transition: all 500ms cubic-bezier(0.19, 1, 0.22, 1);
@@ -1429,7 +1429,7 @@ Usage (In Ghost editor):
     color: #2e2e2e;
     font-size: 1.6rem;
     line-height: 1.3em;
-    font-weight: bold;
+    font-weight: normal;
     text-overflow: ellipsis;
     white-space: nowrap;
 }
