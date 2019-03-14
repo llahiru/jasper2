@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/prototyping/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-14T13:28:18+00:00</updated>
+  <updated>2019-03-14T14:48:48+00:00</updated>
   <id>/portfolio/tag/prototyping/feed.xml</id>
 
   
@@ -55,7 +55,7 @@
 &lt;p&gt;How might we create a new display form factor that will offer physical affordances for actions that are quite different from those of a traditional flat form factor of a smartphone.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h2 id=&quot;the-solution&quot;&gt;The Solution&lt;/h2&gt;
+&lt;h2 id=&quot;our-solution&quot;&gt;Our Solution&lt;/h2&gt;
 &lt;p&gt;A cylindrical device with a cylindrical display form factor that allows users to perform natural gestures and to explore the display area.&lt;/p&gt;
 
 &lt;p&gt;Interaction design was done based on how people handle day-to-day objects. The cylindrical form factor provides a comfortable grip when performing gestural interactions.&lt;/p&gt;
@@ -106,7 +106,7 @@
 &lt;h2 id=&quot;the-physical-product&quot;&gt;The Physical Product&lt;/h2&gt;
 &lt;p&gt;MagicWand is a cylindrical display device consisting of two 5.5” Flexible Organic Light-Emitting Diode (FOLED) screens wrapped around a 3D printed body. MagicWand features a smartphone running the Android operating system. Gesture recognition allows the use of the wand movements as a form of input.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/magicwand_explodedView.jpg&quot; alt=&quot;Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/magicwand_explodedView_2.jpg&quot; alt=&quot;Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan.&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;caption&quot;&gt;Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan.&lt;/p&gt;
 
 &lt;h2 id=&quot;fantasy-game-application&quot;&gt;Fantasy Game Application&lt;/h2&gt;
@@ -121,8 +121,8 @@
 &lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/magicwand_gameplay.jpg&quot; alt=&quot;A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword.&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;caption&quot;&gt;A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/magicwand_compare.jpg&quot; alt=&quot;A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword.&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;caption&quot;&gt;A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/magicwand_compare.jpg&quot; alt=&quot; (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt; (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax.&lt;/p&gt;
 
 &lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
 &lt;p&gt;The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.&lt;/p&gt;
