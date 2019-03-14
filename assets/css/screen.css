@@ -885,12 +885,13 @@ Usage (In Ghost editor):
 
 .post-full-content h3 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 2.8rem;
-    font-weight: 700;
+    font-size: 2.0rem;
+    font-weight: 350;
+    color: var(--midgrey);
 }
 @media (max-width: 500px) {
     .post-full-content h3 {
-        font-size: 2.2rem;
+        font-size: 1.2rem;
     }
 }
 
@@ -1920,11 +1921,11 @@ Usage (In Ghost editor):
 
 
 /* Custom Post Styles */
-.project-intro {
+.post-full-content .project-intro {
     color: var(--midgrey);
     margin: 0px 0px 20px;
-    font-family: sans-serif;
     font-size: 0.85em;
+    line-height: normal;
 }
 
 .post-full-content .caption {
