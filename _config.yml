@@ -11,8 +11,8 @@ baseurl: /portfolio/
 title: Lahiru Maramba
 description: Engineering & Design Portfolio of Lahiru Maramba
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
+#logo: assets/images/blog-icon.png
+#logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://llahiru.github.io/portfolio/
 source_url: https://github.com/llahiru/portfolio/

@@ -53,6 +53,7 @@ into the {body} of the default.hbs template -->
             </section>
 
             <!-- Email subscribe form at the bottom of the page -->
+            <!--
             {% if site.subscribers %}
                 <section class="subscribe-form">
                     <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
@@ -60,7 +61,8 @@ into the {body} of the default.hbs template -->
                     {% include subscribe-form.html placeholder="youremail@example.com" %}
                 </section>
             {% endif %}
-
+            -->
+{% if site.subscribers %}
             <footer class="post-full-footer">
                 <!-- Everything inside the #author tags pulls data from the author -->
                 <!-- #author-->
@@ -107,13 +109,14 @@ into the {body} of the default.hbs template -->
                     </script>
                 </section>
             {% endif %}
-
+{% endif %}
         </article>
 
     </div>
 </main>
 
 <!-- Links to Previous/Next posts -->
+<!--
 <aside class="read-next outer">
     <div class="inner">
         <div class="read-next-feed">
@@ -173,12 +176,10 @@ into the {body} of the default.hbs template -->
                 {% endif %}
             {% endif %}
 
-            <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
             {% if page.next %}
                 {% include post-card-next.html %}
             {% endif %}
 
-            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
             {% if page.previous %}
                 {% include post-card-previous.html %}
             {% endif %}
@@ -186,6 +187,7 @@ into the {body} of the default.hbs template -->
         </div>
     </div>
 </aside>
+-->
 
 <!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
 {% include floating-header.html %}
