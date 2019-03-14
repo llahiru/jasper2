@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/ux/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-13T02:16:20+00:00</updated>
+  <updated>2019-03-14T01:37:02+00:00</updated>
   <id>/portfolio/tag/ux/feed.xml</id>
 
   
@@ -39,7 +39,7 @@
       <id>/portfolio/welcome</id>
       <content type="html" xml:base="/portfolio/welcome">&lt;p&gt;A handheld device with a fully cylindrical user interface. The device, dubbed MagicWand, has a wide range of possible applications, including the use of as a game controller.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/magic_wand_a.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/magic_wand_a.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
 &lt;strong&gt;Timeline:&lt;/strong&gt; Winter 2016&lt;br /&gt;
