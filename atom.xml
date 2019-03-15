@@ -8,16 +8,31 @@
     
       
       <item>
+        <title>OnTrack</title>
+        
+          <description>&lt;p&gt;A mobile application that helps you keep track of important annual events such as anniversaries and birthdays.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 12 Mar 2019 10:00:00 +0000</pubDate>
+        <link>
+        /ontrack</link>
+        <guid isPermaLink="true">/ontrack</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>MagicWand</title>
         
-          <description>&lt;p&gt;A handheld device with a fully cylindrical user interface. The device, dubbed MagicWand, has a wide range of possible applications, including the use of as a game controller.&lt;/p&gt;
+          <description>&lt;p&gt;A handheld device with a fully cylindrical user interface that has a wide range of possible applications, including the use of as a game controller.&lt;/p&gt;
 
 </description>
         
         <pubDate>Thu, 27 Jul 2017 10:00:00 +0000</pubDate>
         <link>
-        /welcome</link>
-        <guid isPermaLink="true">/welcome</guid>
+        /magicwand</link>
+        <guid isPermaLink="true">/magicwand</guid>
       </item>
       
     
