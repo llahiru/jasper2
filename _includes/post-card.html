@@ -11,7 +11,7 @@
                     <h2 class="post-card-title">{{ post.title }}</h2>
                 </header>
                 <section class="post-card-excerpt">
-                    <p>{{ post.content | strip_html | truncatewords: 28, "" }}</p>
+                    <p>{{ post.description }}</p>
                 </section>
                 <span class="post-card-tags">{{ post.type }}: </span>
                 {% if post.tags.size > 0 %}

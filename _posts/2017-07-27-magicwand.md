@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/magic_wand.jpg
+cover: assets/images/mw/magic_wand.jpg
 navigation: True
 title: MagicWand
 date: 2017-07-27 10:00:00
@@ -10,10 +10,11 @@ class: post-template
 subclass: 'post tag-getting-started'
 author: ghost
 type: Case Study
+description: A handheld device with a fully cylindrical user interface that has a wide range of possible applications, including the use of as a game controller.
 ---
-A handheld device with a fully cylindrical user interface. The device, dubbed MagicWand, has a wide range of possible applications, including the use of as a game controller.
+{{ page.description }}
 
-![Image](assets/images/magic_wand_a.jpg#full)
+![Image](assets/images/mw/magic_wand_a.jpg#full)
 
 <span class="project-intro">
 **Timeline:** Winter 2016<br />
@@ -58,13 +59,15 @@ Following our primary research, I then moved onto defining design parameters for
 
 > We envisioned MagicWand as an extension of the user’s wrist, supporting the maximum number of degrees of freedom provided by its joints.
 
-{% include image.html url="assets/images/wristmovements.png" description="The wrist is capable of three sets of distinct movements: flexion and extension, radial deviation and ulnar deviation, pronation and supination." %}
+{% include image.html url="assets/images/mw/wristmovements.png" description="The wrist is capable of three sets of distinct movements: flexion and extension, radial deviation and ulnar deviation, pronation and supination." %}
 
 We based our initial set of gestures for MagicWand on the above capabilities of the wrist: providing gestures for **rotation** (pronation/supination), **tilt** (flexion/extension), as well as **pointing** (deviation).
 
 > Motion gesture design was also inspired by everyday object handling.
 
 Motion gesture design was also inspired by everyday object handling. For example, actions such as turning a key to unlock a door, or turning a door knob to open a door, involve rotation through pronation/supination of the wrist.
+
+![MagicWand Design Sketches](assets/images/mw/magicw_sketches.jpg)
 
 When handling cylindrical fluid containers such as bottles, the object is naturally tilted through flexion extension of the wrist to drink from or pour liquid out.
 
@@ -76,7 +79,7 @@ We were similarly inspired by the swirl motion used when stirring food with a ki
 ## The Physical Product
 MagicWand is a cylindrical display device consisting of two 5.5” Flexible Organic Light-Emitting Diode (FOLED) screens wrapped around a 3D printed body. MagicWand features a smartphone running the Android operating system. Gesture recognition allows the use of the wand movements as a form of input.
 
-{% include image.html url="assets/images/magicwand_explodedView_2.jpg" description="Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan." %}
+{% include image.html url="assets/images/mw/magicwand_explodedView_2.jpg" description="Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan." %}
 
 ## Fantasy Game Application
 To highlight some of MagicWand’s capabilities, we developed a first-person fantasy adventure game for aspiring wizards.
@@ -85,9 +88,9 @@ To highlight some of MagicWand’s capabilities, we developed a first-person fan
 
 This game requires the player to use several tools that fit a cylindrical form factor — a **candle**, a **wand**, a **key**, a **whirlwind**, a **sword**, a **magic potion**, and a **spoon** — to interact with characters that fit a cylindrical form. The game’s goal is to collect all the characters and transport them from the wand display to a virtual magical island on a large external display, through the application of gestures.
 
-{% include image.html url="assets/images/magicwand_gameplay.jpg" description="A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword." %}
+{% include image.html url="assets/images/mw/magicwand_gameplay.jpg" description="A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword." %}
 
-{% include image.html url="assets/images/magicwand_compare.jpg" description=" (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax." %}
+{% include image.html url="assets/images/mw/magicwand_compare.jpg" description=" (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax." %}
 
 ## Reflection & Takeaways
 The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.
