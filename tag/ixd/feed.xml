@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/ixd/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-15T13:40:46+00:00</updated>
+  <updated>2019-03-16T18:25:56+00:00</updated>
   <id>/portfolio/tag/ixd/feed.xml</id>
 
   
@@ -39,7 +39,7 @@
       <id>/portfolio/ontrack</id>
       <content type="html" xml:base="/portfolio/ontrack">&lt;p&gt;A mobile application that helps you keep track of important annual events such as anniversaries and birthdays.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/mw/magic_wand_a.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/cover.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
 &lt;strong&gt;Timeline:&lt;/strong&gt; Winter 2018&lt;br /&gt;
@@ -64,6 +64,8 @@
 &lt;p&gt;Interaction design was done based on how people handle day-to-day objects. The cylindrical form factor provides a comfortable grip when performing gestural interactions.&lt;/p&gt;
 
 &lt;p&gt;Success measures of the product revolve around how quickly a user can guess and performs an interaction based on the affordances provided by the cylindrical form factor and the visuals on the display.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/app_isometric.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;research&quot;&gt;Research&lt;/h2&gt;
 &lt;p&gt;To bring our product into fruition, we first had to empathize and understand how humans associate with affordances.&lt;/p&gt;
