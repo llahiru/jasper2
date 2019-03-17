@@ -1,117 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="/portfolio/" rel="alternate" type="text/html" /><updated>2019-03-16T18:25:56+00:00</updated><id>/portfolio/</id><title type="html">Lahiru Maramba</title><subtitle>Engineering &amp; Design Portfolio of Lahiru Maramba</subtitle><entry><title type="html">OnTrack</title><link href="/portfolio/ontrack" rel="alternate" type="text/html" title="OnTrack" /><published>2019-03-12T10:00:00+00:00</published><updated>2019-03-12T10:00:00+00:00</updated><id>/portfolio/ontrack</id><content type="html" xml:base="/portfolio/ontrack">&lt;p&gt;A mobile application that helps you keep track of important annual events such as anniversaries and birthdays.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="/portfolio/" rel="alternate" type="text/html" /><updated>2019-03-17T05:24:36+00:00</updated><id>/portfolio/</id><title type="html">Lahiru Maramba</title><subtitle>Engineering &amp; Design Portfolio of Lahiru Maramba</subtitle><entry><title type="html">OnTrack</title><link href="/portfolio/ontrack" rel="alternate" type="text/html" title="OnTrack" /><published>2019-03-12T10:00:00+00:00</published><updated>2019-03-12T10:00:00+00:00</updated><id>/portfolio/ontrack</id><content type="html" xml:base="/portfolio/ontrack">&lt;p&gt;A mobile application that helps you keep track of important annual events such as anniversaries and birthdays.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/cover.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
 &lt;strong&gt;Timeline:&lt;/strong&gt; Winter 2018&lt;br /&gt;
-&lt;strong&gt;Project:&lt;/strong&gt; Research conducted at the Human Media Lab, Queen’s University&lt;br /&gt;
-&lt;strong&gt;Type:&lt;/strong&gt; Interaction Design, User Experience Design, Prototyping&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;strong&gt;Type:&lt;/strong&gt; Interaction Design, UI/UX&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
-&lt;p&gt;As an expat with some of my family and friends on the other side of the world, it has always been pretty key for me to keep track of all the upcoming important birthdays.&lt;/p&gt;
+&lt;h3 id=&quot;it-all-started-with-just-birthdays&quot;&gt;It All Started With Just Birthdays&lt;/h3&gt;
+&lt;p&gt;As an expat with some of my family and friends on the other side of the world, it has always been pretty important for me to keep track of all the special upcoming birthdays. Given the distance, I need to act well advance of the event if I want to send a gift or a greeting card on time. Using a calendar for this purpose did not provide the necessary sense of urgency. So I decided to design an App to keep track of birthdays.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-design-process&quot;&gt;The Design Process&lt;/h2&gt;
+&lt;h3 id=&quot;generative-user-research&quot;&gt;Generative User Research&lt;/h3&gt;
+&lt;p&gt;I started the design process by talking to potential users of the app. My initial goal was to understand how people keep track of their important birthdays. Therefore, I started with the following research questions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How people keep track of birthdays, what tools they use?&lt;/li&gt;
+  &lt;li&gt;What are the goals of using the above tools?&lt;/li&gt;
+  &lt;li&gt;What are the pain points?&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;keeping-track-of-important-annual-events&quot;&gt;Keeping Track Of Important Annual Events&lt;/h2&gt;
+&lt;p&gt;After talking to potential users I found out that they all had the need to keep track of the important annual days and not just birthdays. As a result I increased the focus of the project from tracking birthdays to tracking annual events.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-problem&quot;&gt;The Problem&lt;/h3&gt;
-&lt;p&gt;Modern smartphones with traditional flat screens offer poor affordances for gestural interactions. The flat form factor prevents a comfortable grip hindering wrist movements. Display area of flat devices can only be viewed from one side, and the visibility reduces when the device is rotated.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The dates users were keen to keep track of had one thing in common. They occurred yearly.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h3 id=&quot;the-challenge&quot;&gt;The Challenge&lt;/h3&gt;
-&lt;p&gt;How might we create a new display form factor that will offer physical affordances for actions that are quite different from those of a traditional flat form factor of a smartphone.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h2 id=&quot;our-solution&quot;&gt;Our Solution&lt;/h2&gt;
-&lt;p&gt;A cylindrical device with a cylindrical display form factor that allows users to perform natural gestures and to explore the display area.&lt;/p&gt;
-
-&lt;p&gt;Interaction design was done based on how people handle day-to-day objects. The cylindrical form factor provides a comfortable grip when performing gestural interactions.&lt;/p&gt;
-
-&lt;p&gt;Success measures of the product revolve around how quickly a user can guess and performs an interaction based on the affordances provided by the cylindrical form factor and the visuals on the display.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/ot/app_isometric.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;research&quot;&gt;Research&lt;/h2&gt;
-&lt;p&gt;To bring our product into fruition, we first had to empathize and understand how humans associate with affordances.&lt;/p&gt;
-
-&lt;p&gt;We started by looking for inspirations from Don Norman’s work on affordances &lt;sup id=&quot;fnref:Book&quot;&gt;&lt;a href=&quot;#fn:Book&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We learned that affordances are generated by matching the fit of the body under action to the physical shape of an object. For example, a vertical door handle affords pulling, whereas a horizontal flat bar affords pushing to open &lt;sup id=&quot;fnref:Doors&quot;&gt;&lt;a href=&quot;#fn:Doors&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;your-wrist-dont-lie&quot;&gt;Your Wrist Don’t Lie&lt;/h2&gt;
-
-&lt;h3 id=&quot;ideation-process&quot;&gt;Ideation Process&lt;/h3&gt;
-&lt;p&gt;Following our primary research, I then moved onto defining design parameters for gestural input devices. In the design process of MagicWand, I considered the following design parameters.&lt;/p&gt;
+&lt;p&gt;During the generative research phase I also discovered the following.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Cylindrical Shape and Ergonomic Tool Fit&lt;/li&gt;
-  &lt;li&gt;Optimal Diameter and Length Tradeoff&lt;/li&gt;
-  &lt;li&gt;Conformability of the FOLEDs&lt;/li&gt;
-  &lt;li&gt;Conforming with Prior Gestural Game Controller Designs&lt;/li&gt;
-  &lt;li&gt;Unconstrained Motion&lt;/li&gt;
-  &lt;li&gt;Optimal Design Space for Wrist Gestures&lt;/li&gt;
+  &lt;li&gt;Most users remember the dates of key events (birthdays of immediate family) or have a general sense of the part of the year they occur (ex: first week of March)&lt;/li&gt;
+  &lt;li&gt;Users prefer a quick overview of upcoming events. This helps them reassure specific upcoming dates and make sure they have enough time to prepare for the event&lt;/li&gt;
+  &lt;li&gt;Calendars do not provide a proper overview of the upcoming events&lt;/li&gt;
+  &lt;li&gt;Calendars lack the sense of urgency to act on time for an upcoming event&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/user_personas.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;interaction-design-process&quot;&gt;Interaction Design Process&lt;/h2&gt;
+&lt;h3 id=&quot;shneidermans-mantra&quot;&gt;Shneiderman’s Mantra&lt;/h3&gt;
+&lt;p&gt;I started the interaction design process keeping the following points in mind.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;An easy to grasp and clear overview&lt;/li&gt;
+  &lt;li&gt;Provide a sense of urgency&lt;/li&gt;
+  &lt;li&gt;Quick glance view of upcoming events&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;We envisioned MagicWand as an extension of the user’s wrist, supporting the maximum number of degrees of freedom provided by its joints.&lt;/p&gt;
+  &lt;p&gt;Overview First, Zoom and Filter, Then Details-on-Demand&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/mw/wristmovements.png&quot; alt=&quot;The wrist is capable of three sets of distinct movements: flexion and extension, radial deviation and ulnar deviation, pronation and supination.&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;caption&quot;&gt;The wrist is capable of three sets of distinct movements: flexion and extension, radial deviation and ulnar deviation, pronation and supination.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/sketches_01.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We based our initial set of gestures for MagicWand on the above capabilities of the wrist: providing gestures for &lt;strong&gt;rotation&lt;/strong&gt; (pronation/supination), &lt;strong&gt;tilt&lt;/strong&gt; (flexion/extension), as well as &lt;strong&gt;pointing&lt;/strong&gt; (deviation).&lt;/p&gt;
+&lt;h2 id=&quot;circular-vs-linear&quot;&gt;Circular vs Linear&lt;/h2&gt;
+&lt;h3 id=&quot;iteration-01---circular-overview&quot;&gt;Iteration 01 - Circular Overview&lt;/h3&gt;
+&lt;p&gt;In the first design iteration I used a Circle Chart to provide an overview of the upcoming events. Each slice of the circle represents a month of the year and the area is determined by the number of events in a given month.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/ot/ot_iteration_01.gif&quot; alt=&quot;Each slice of the circle represent a month and the area of a slice represents the number of events in that month.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Each slice of the circle represent a month and the area of a slice represents the number of events in that month.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/circle_chart_view.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback from users showed that using a circle chart provided a summary of the events. However, users found that it did not provide a clear sense of timeline.&lt;/p&gt;
+
+&lt;p&gt;Based on the user feedback I revisited the design with a timeline based concept.&lt;/p&gt;
+
+&lt;h3 id=&quot;iteration-02---linear-overview&quot;&gt;Iteration 02 - Linear Overview&lt;/h3&gt;
+&lt;p&gt;In the second iteration used a Linear Graph to provide an overview of upcoming events. Each section represents a month and the width of a section corresponded to the number of events in that month.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/timeline_view.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Motion gesture design was also inspired by everyday object handling.&lt;/p&gt;
+  &lt;p&gt;A count down timer provided a sense of urgency&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Motion gesture design was also inspired by everyday object handling. For example, actions such as turning a key to unlock a door, or turning a door knob to open a door, involve rotation through pronation/supination of the wrist.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/app_isometric.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/mw/magicw_sketches.jpg&quot; alt=&quot;MagicWand Design Sketches&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/ot_iteration_02.gif&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;When handling cylindrical fluid containers such as bottles, the object is naturally tilted through flexion extension of the wrist to drink from or pour liquid out.&lt;/p&gt;
+&lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
+&lt;p&gt;The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.&lt;/p&gt;</content><author><name>ghost</name></author><category term="UX" /><category term="IxD" /><summary type="html">A mobile application that helps you keep track of important annual events such as anniversaries and birthdays.</summary></entry><entry><title type="html">Cadence</title><link href="/portfolio/cadence" rel="alternate" type="text/html" title="Cadence" /><published>2019-03-12T10:00:00+00:00</published><updated>2019-03-12T10:00:00+00:00</updated><id>/portfolio/cadence</id><content type="html" xml:base="/portfolio/cadence">&lt;p&gt;Your body is the controller! Cadence is a rhythm game in which players tap along to the beats of a song on their thighs, and where certain beats are captured by high­ five-ing their teammate.&lt;/p&gt;
 
-&lt;p&gt;Pointing with a cylindrical object such as a remote control, laser pointer, or stick involves radial and ulnar deviations of the wrist. Deviations of the wrist becomes a motion gesture when cutting or slashing using tools such as knives and swords.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_hero.png#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We were similarly inspired by the swirl motion used when stirring food with a kitchen utensil such as a spoon, which involves a combination of deviation and flexion/extension actions by the wrist.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
+&lt;strong&gt;Timeline:&lt;/strong&gt; Fall 2016&lt;br /&gt;
+&lt;strong&gt;Course:&lt;/strong&gt; Game Design @ Queen’s University, Kingston, Canada&lt;br /&gt;
+&lt;strong&gt;Type:&lt;/strong&gt; Interaction Design, UI/UX, Prototyping, Arduino&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
-&lt;h2 id=&quot;the-physical-product&quot;&gt;The Physical Product&lt;/h2&gt;
-&lt;p&gt;MagicWand is a cylindrical display device consisting of two 5.5” Flexible Organic Light-Emitting Diode (FOLED) screens wrapped around a 3D printed body. MagicWand features a smartphone running the Android operating system. Gesture recognition allows the use of the wand movements as a form of input.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/mw/magicwand_explodedView_2.jpg&quot; alt=&quot;Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan.&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;caption&quot;&gt;Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan.&lt;/p&gt;
-
-&lt;h2 id=&quot;fantasy-game-application&quot;&gt;Fantasy Game Application&lt;/h2&gt;
-&lt;p&gt;To highlight some of MagicWand’s capabilities, we developed a first-person fantasy adventure game for aspiring wizards.&lt;/p&gt;
+&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+&lt;h3 id=&quot;its-all-about-the-rhythm&quot;&gt;It’s All About The Rhythm&lt;/h3&gt;
+&lt;p&gt;In recent years, one video game genre that has rapidly increased in popularity is rhythm games. Rhythm games require users to complete actions that correspond to the rhythm of the song that is being played.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;… — a candle, a wand, a key, a whirlwind, a sword, a magic potion, and a spoon — …&lt;/p&gt;
+  &lt;p&gt;“When I listen to music sometimes I start tapping along to the beat. Maybe we should make a game out of it!”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This game requires the player to use several tools that fit a cylindrical form factor — a &lt;strong&gt;candle&lt;/strong&gt;, a &lt;strong&gt;wand&lt;/strong&gt;, a &lt;strong&gt;key&lt;/strong&gt;, a &lt;strong&gt;whirlwind&lt;/strong&gt;, a &lt;strong&gt;sword&lt;/strong&gt;, a &lt;strong&gt;magic potion&lt;/strong&gt;, and a &lt;strong&gt;spoon&lt;/strong&gt; — to interact with characters that fit a cylindrical form. The game’s goal is to collect all the characters and transport them from the wand display to a virtual magical island on a large external display, through the application of gestures.&lt;/p&gt;
+&lt;p&gt;Popular rhythm games like Rock Band require users to play with external peripherals that are in the shape of instruments, or to make physical foot­ stepping movements like in the case of Dance Dance Revolution. However, these games do not take advantage of one of the most intuitive actions when listening to music: &lt;strong&gt;tapping along to the beat&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/mw/magicwand_gameplay.jpg&quot; alt=&quot;A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword.&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;caption&quot;&gt;A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword.&lt;/p&gt;
+&lt;p&gt;Moreover, the current rhythm games aforementioned do not facilitate physical cooperation between players. They allow users to play multiple instruments at the same time, but they do not have a physically interactive teamwork component.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/mw/magicwand_compare.jpg&quot; alt=&quot; (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax.&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;caption&quot;&gt; (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax.&lt;/p&gt;
+&lt;h3 id=&quot;my-role&quot;&gt;My Role&lt;/h3&gt;
+&lt;p&gt;I was part of the pitch team and responsible for the experience strategy and design of the gameplay. I was involved in the game interface design. I lead the hardware design work, producing the wearable sensors and made sure they were robust and comfortable to wear and be used by the game players.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-challenge&quot;&gt;The Challenge&lt;/h2&gt;
+&lt;p&gt;During the ideation process we faced three interesting technological problems:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Enabling players to use their bodies to communicate with the game&lt;/li&gt;
+  &lt;li&gt;Enabling players’ physical interactions to be communicated to the game in order to capture cooperative play&lt;/li&gt;
+  &lt;li&gt;Analyzing the audio of songs in order to automatically generate notes for gameplay&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;our-solution&quot;&gt;Our Solution&lt;/h2&gt;
+&lt;p&gt;To solve the first two problems we created a distributed system made up of micro-controllers and sensors to detect input from users’ bodies (both knee tapping and high­ five-ing), and transferring that input to Unity game engine.&lt;/p&gt;
+
+&lt;p&gt;The third problem was solved by creating a beat detection algorithm that imitates the ways in which humans perceive beats in music. This was used to analyze songs and generate beats for gameplay.&lt;/p&gt;
+
+&lt;p&gt;Our game includes a novel control scheme that requires the use of a number of external peripherals in order to enable players to utilize their body as the game “controller”. The players attach two wired square colour coded sensors (Piezo Sensors) on each leg using straps, and put on a wristband which is connected to the control box.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-design-process&quot;&gt;The Design Process&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;We used the feedback from our play-testers constantly throughout the project to guide design decisions, priorities, and create empathy amongst the users and our team.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;First, we created mock sensors with paper and cardboard and asked users to wear them pretending that they are real functional sensors. Then we presented them with our initial single player user interface and observed how users interact with the sensors and the game while making qualitative observations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_02.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;These early prototype evaluations helped us refine the initial design of the game before starting any development work. We conducted play testing sessions at each milestone go gather user feedback as we made improvements to the gameplay and game hardware.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-evolution-of-the-game-interface&quot;&gt;The Evolution Of The Game Interface&lt;/h2&gt;
+&lt;p&gt;We created a two player layout that looks like two single player schemes stacked on top of each other. Play-testers did not have issues with this design, but what they did not find intuitive was the way in which cooperative notes were displayed.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Collaborative Notes made the screen appear crowded and overwhelming.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We initially had a yellow note in the middle of the screen, in between the two players individual gameplays. Notes that were to be played collaboratively would move across the middle of the screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/cd/cadence_04.png&quot; alt=&quot;The initial two player user interface looked like two single player schemes stacked on top of each other (where player 1 is on top and player 2 is on the bottom).&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;The initial two player user interface looked like two single player schemes stacked on top of each other (where player 1 is on top and player 2 is on the bottom).&lt;/p&gt;
+
+&lt;p&gt;We received informative feedback from users, and found that these collaborative notes made the screen appear crowded and overwhelming. Moreover, a common source of feedback was that the notes were just outside the player’s vertical peripheral vision (too high or too low), causing users to often not notice them.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Collaborative Notes were just outside the player’s vertical peripheral vision, causing users to often not notice them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We decided that a shared note was not a feasible idea, and went forward with a different approach: When a note is to be played cooperatively, four hollow notes are generated from each of the player’s notes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/cd/cadence_05.png&quot; alt=&quot;Iteration to the user interface with four hollow notes for collaborative play.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Iteration to the user interface with four hollow notes for collaborative play.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We went forward with a different approach: When a note is to be played cooperatively, four hollow notes are generated from each of the player’s notes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This approach to use four hollow notes for collaborative notes was received very positively by users. Four out of six users said that upon first seeing the set of four notes appear, they felt overwhelmed, but that they quickly adjusted to it. The other two users did not feel overwhelmed at any point. When asked if the new interface was confusing, all six users said no.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/cd/cadence_06_final_ui.png&quot; alt=&quot;Final user interface with visual feedback representing the maximum combo multiplier.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Final user interface with visual feedback representing the maximum combo multiplier.&lt;/p&gt;
 
 &lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
 &lt;p&gt;The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.&lt;/p&gt;
 
-&lt;p&gt;MagicWand was designed with specific design goals and under particular technical constraints. Although the empirical findings support the design rationale, many of the details in the experimental results pertain only to the specific hardware implementation.&lt;/p&gt;
-
-&lt;p&gt;When designing interactions with MagicWand we primarily relied solely on gesture control. All tasks were triggered only using motion gestures, which can be more difficult to discover than touch interactions. Based on these limitations, future work needs to be conducted to explore the interactions with both touch input and gestures combined.&lt;/p&gt;
-
 &lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eFHyRWFf2Qs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:Book&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things&quot;&gt;Design of Everyday Things&lt;/a&gt; &lt;a href=&quot;#fnref:Book&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:Doors&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=yY96hTb8WgI&quot;&gt;Norman Doors&lt;/a&gt; &lt;a href=&quot;#fnref:Doors&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>ghost</name></author><category term="UX" /><category term="IxD" /><summary type="html">A mobile application that helps you keep track of important annual events such as anniversaries and birthdays.</summary></entry><entry><title type="html">MagicWand</title><link href="/portfolio/magicwand" rel="alternate" type="text/html" title="MagicWand" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>/portfolio/magicwand</id><content type="html" xml:base="/portfolio/magicwand">&lt;p&gt;A handheld device with a fully cylindrical user interface that has a wide range of possible applications, including the use of as a game controller.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3L74POQHuPo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>ghost</name></author><category term="UX" /><category term="IxD" /><category term="Prototyping" /><summary type="html">Your body is the controller! Cadence is a rhythm game in which players tap along to the beats of a song on their thighs, and where certain beats are captured by high­ five-ing their teammate.</summary></entry><entry><title type="html">MagicWand</title><link href="/portfolio/magicwand" rel="alternate" type="text/html" title="MagicWand" /><published>2017-07-27T10:00:00+00:00</published><updated>2017-07-27T10:00:00+00:00</updated><id>/portfolio/magicwand</id><content type="html" xml:base="/portfolio/magicwand">&lt;p&gt;A handheld device with a fully cylindrical user interface that has a wide range of possible applications, including the use of as a game controller.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/mw/magic_wand_a.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
@@ -219,91 +276,4 @@
       &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=yY96hTb8WgI&quot;&gt;Norman Doors&lt;/a&gt; &lt;a href=&quot;#fnref:Doors&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>ghost</name></author><category term="UX" /><category term="IxD" /><category term="Prototyping" /><summary type="html">A handheld device with a fully cylindrical user interface that has a wide range of possible applications, including the use of as a game controller.</summary></entry><entry><title type="html">Using the Ghost editor</title><link href="/portfolio/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" /><published>2017-07-27T09:00:00+00:00</published><updated>2017-07-27T09:00:00+00:00</updated><id>/portfolio/the-editor</id><content type="html" xml:base="/portfolio/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
-&lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.&lt;/p&gt;
-&lt;p&gt;At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a &lt;strong&gt;?&lt;/strong&gt; icon, which contains more advanced shortcuts.&lt;/p&gt;
-&lt;p&gt;For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used.&lt;/p&gt;
-&lt;h2 id=&quot;formattingtext&quot;&gt;Formatting text&lt;/h2&gt;
-&lt;p&gt;The most common shortcuts are of course, &lt;strong&gt;bold&lt;/strong&gt; text, &lt;em&gt;italic&lt;/em&gt; text, and &lt;a href=&quot;https://example.com&quot;&gt;hyperlinks&lt;/a&gt;. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;CMD/Ctrl + B&lt;/code&gt; for Bold&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;CMD/Ctrl + I&lt;/code&gt; for Italic&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;CMD/Ctrl + K&lt;/code&gt; for a Link&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;CMD/Ctrl + H&lt;/code&gt; for a Heading (Press multiple times for h2/h3/h4/etc)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story.&lt;/p&gt;
-&lt;h2 id=&quot;insertingimages&quot;&gt;Inserting images&lt;/h2&gt;
-&lt;p&gt;Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;![Image description](/path/to/image.jpg)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/computer.jpg&quot; alt=&quot;Computer&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Important Note:&lt;/strong&gt; Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files &lt;strong&gt;before&lt;/strong&gt; uploading them to Ghost.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;makinglists&quot;&gt;Making lists&lt;/h2&gt;
-&lt;p&gt;Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use &lt;code&gt;*&lt;/code&gt; or &lt;code&gt;-&lt;/code&gt; or &lt;code&gt;+&lt;/code&gt;. Like this:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Crack the eggs over a bowl&lt;/li&gt;
-&lt;li&gt;Whisk them together&lt;/li&gt;
-&lt;li&gt;Make an omellete&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;or&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Remember to buy milk&lt;/li&gt;
-&lt;li&gt;Feed the cat&lt;/li&gt;
-&lt;li&gt;Come up with idea for next story&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;addingquotes&quot;&gt;Adding quotes&lt;/h2&gt;
-&lt;p&gt;When you want to pull out a particularly good except in the middle of a piece, you can use &lt;code&gt;&amp;gt;&lt;/code&gt; at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A well placed quote guides a reader through a story, helping them to understand the most important points being made&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly.&lt;/p&gt;
-&lt;h2 id=&quot;dividingthingsup&quot;&gt;Dividing things up&lt;/h2&gt;
-&lt;p&gt;If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping &lt;code&gt;---&lt;/code&gt; on a new line will create a sleak divider, anywhere you want it.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the &lt;a href=&quot;/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of &lt;a href=&quot;/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.&lt;/p&gt;</content><author><name>ghost</name></author><category term="Interaction Design" /><summary type="html">Ghost uses a language called Markdown to format text. When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause. At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a ? icon, which contains more advanced shortcuts. For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used. Formatting text The most common shortcuts are of course, bold text, italic text, and hyperlinks. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts. CMD/Ctrl + B for Bold CMD/Ctrl + I for Italic CMD/Ctrl + K for a Link CMD/Ctrl + H for a Heading (Press multiple times for h2/h3/h4/etc) With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story. Inserting images Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this: ![Image description](/path/to/image.jpg) Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown. Important Note: Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files before uploading them to Ghost. Making lists Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use * or - or +. Like this: Crack the eggs over a bowl Whisk them together Make an omellete or Remember to buy milk Feed the cat Come up with idea for next story Adding quotes When you want to pull out a particularly good except in the middle of a piece, you can use &amp;gt; at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients. A well placed quote guides a reader through a story, helping them to understand the most important points being made All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly. Dividing things up If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping --- on a new line will create a sleak divider, anywhere you want it. This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the Advanced Markdown Guide - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of how to use Ghost tags.</summary></entry><entry><title type="html">Organising your content with tags</title><link href="/portfolio/using-tags" rel="alternate" type="text/html" title="Organising your content with tags" /><published>2017-07-27T08:00:00+00:00</published><updated>2017-07-27T08:00:00+00:00</updated><id>/portfolio/using-tags</id><content type="html" xml:base="/portfolio/using-tags">&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
-&lt;p&gt;It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.&lt;/p&gt;
-&lt;h2 id=&quot;basictagging&quot;&gt;Basic tagging&lt;/h2&gt;
-&lt;p&gt;When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with &lt;code&gt;News&lt;/code&gt; and other posts with &lt;code&gt;Cycling&lt;/code&gt;, which would create two distinct categories of content listed on &lt;code&gt;/tag/news/&lt;/code&gt; and &lt;code&gt;/tag/cycling/&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;If you tag a post with both &lt;code&gt;News&lt;/code&gt; &lt;em&gt;and&lt;/em&gt; &lt;code&gt;Cycling&lt;/code&gt; - then it appears in both sections.&lt;/p&gt;
-&lt;p&gt;Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data.&lt;/p&gt;
-&lt;h2 id=&quot;theprimarytag&quot;&gt;The primary tag&lt;/h2&gt;
-&lt;p&gt;Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important.&lt;/p&gt;
-&lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, Bart Stevens, Extreme Sports&lt;/mark&gt;&lt;/p&gt;
-&lt;p&gt;In this example, &lt;strong&gt;News&lt;/strong&gt; is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives.&lt;/p&gt;
-&lt;h2 id=&quot;privatetags&quot;&gt;Private tags&lt;/h2&gt;
-&lt;p&gt;Sometimes you may want to assign a post a specific tag, but you don't necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling.&lt;/p&gt;
-&lt;p&gt;For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do.&lt;/p&gt;
-&lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, #video&lt;/mark&gt;&lt;/p&gt;
-&lt;p&gt;Here, the theme would assign the post publicly displayed tags of &lt;code&gt;News&lt;/code&gt;, and &lt;code&gt;Cycling&lt;/code&gt; - but it would also keep a private record of the post being tagged with &lt;code&gt;#video&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;In your theme, you could then look for private tags conditionally and give them special formatting:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;nohighlight&quot;&gt;{{#post}}
-    {{#has tag=&amp;quot;#video&amp;quot;}}
-        ...markup for a nice big video post layout...
-    {{else}}
-        ...regular markup for a post...
-    {{/has}}
-{{/post}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You can find documentation for theme development techniques like this and many more over on Ghost's extensive &lt;a href=&quot;https://themes.ghost.org/&quot;&gt;theme documentation&lt;/a&gt;.&lt;/p&gt;</content><author><name>ghost</name></author><category term="Getting started" /><summary type="html">Ghost has a single, powerful organisational taxonomy, called tags. It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content. Basic tagging When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with News and other posts with Cycling, which would create two distinct categories of content listed on /tag/news/ and /tag/cycling/, respectively. If you tag a post with both News and Cycling - then it appears in both sections. Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data. The primary tag Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important. News, Cycling, Bart Stevens, Extreme Sports In this example, News is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives. Private tags Sometimes you may want to assign a post a specific tag, but you don't necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling. For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do. News, Cycling, #video Here, the theme would assign the post publicly displayed tags of News, and Cycling - but it would also keep a private record of the post being tagged with #video. In your theme, you could then look for private tags conditionally and give them special formatting: {{#post}} {{#has tag=&amp;quot;#video&amp;quot;}} ...markup for a nice big video post layout... {{else}} ...regular markup for a post... {{/has}} {{/post}} You can find documentation for theme development techniques like this and many more over on Ghost's extensive theme documentation.</summary></entry><entry><title type="html">Making your site private</title><link href="/portfolio/private-sites" rel="alternate" type="text/html" title="Making your site private" /><published>2017-07-27T06:00:00+00:00</published><updated>2017-07-27T06:00:00+00:00</updated><id>/portfolio/private-sites</id><content type="html" xml:base="/portfolio/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
-&lt;p&gt;If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
-&lt;p&gt;You can toggle this preference on at the bottom of Ghost's General Settings&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you're working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar.&lt;/p&gt;
-&lt;p&gt;Do remember though, this is &lt;em&gt;not&lt;/em&gt; secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.&lt;/p&gt;</content><author><name>ghost</name></author><category term="Getting started" /><summary type="html">Sometimes you might want to put your site behind closed doors If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase. You can toggle this preference on at the bottom of Ghost's General Settings Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you're working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar. Do remember though, this is not secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.</summary></entry><entry><title type="html">Setting up your own Ghost theme</title><link href="/portfolio/themes" rel="alternate" type="text/html" title="Setting up your own Ghost theme" /><published>2017-07-27T04:00:00+00:00</published><updated>2017-07-27T04:00:00+00:00</updated><id>/portfolio/themes</id><content type="html" xml:base="/portfolio/themes">&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
-&lt;p&gt;Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;
-&lt;p&gt;There are a huge range of both free and premium pre-built themes which you can get from the &lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;Ghost Theme Marketplace&lt;/a&gt;, or you can simply create your own from scratch.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/marketplace.jpg&quot; alt=&quot;marketplace&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like &lt;code&gt;&lt;/code&gt;, for example, outputs the name of the current author.&lt;/p&gt;
-&lt;p&gt;The best way to learn how to write your own Ghost theme is to have a look at &lt;a href=&quot;https://github.com/TryGhost/Casper&quot;&gt;the source code for Casper&lt;/a&gt;, which is heavily commented and should give you a sense of how everything fits together.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;default.hbs&lt;/code&gt; is the main template file, all contexts will load inside this file unless specifically told to use a different template.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;post.hbs&lt;/code&gt; is the file used in the context of viewing a post.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;index.hbs&lt;/code&gt; is the file used in the context of viewing the home page.&lt;/li&gt;
-&lt;li&gt;and so on&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We've got &lt;a href=&quot;http://themes.ghost.org/docs/about&quot;&gt;full and extensive theme documentation&lt;/a&gt; which outlines every template file, context and helper that you can use.&lt;/p&gt;
-&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content><author><name>ghost</name></author><category term="Getting started" /><summary type="html">Creating a totally custom design for your publication Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the Ghost Theme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own Ghost theme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making Ghost themes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary></entry></feed>
+&lt;/div&gt;</content><author><name>ghost</name></author><category term="UX" /><category term="IxD" /><category term="Prototyping" /><summary type="html">A handheld device with a fully cylindrical user interface that has a wide range of possible applications, including the use of as a game controller.</summary></entry></feed>

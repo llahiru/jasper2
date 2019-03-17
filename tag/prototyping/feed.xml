@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/prototyping/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-16T18:25:56+00:00</updated>
+  <updated>2019-03-17T05:24:36+00:00</updated>
   <id>/portfolio/tag/prototyping/feed.xml</id>
 
   
@@ -30,6 +30,131 @@
   
   
 
+  
+    <entry>
+      <title type="html">Cadence</title>
+      <link href="/portfolio/cadence" rel="alternate" type="text/html" title="Cadence" />
+      <published>2019-03-12T10:00:00+00:00</published>
+      <updated>2019-03-12T10:00:00+00:00</updated>
+      <id>/portfolio/cadence</id>
+      <content type="html" xml:base="/portfolio/cadence">&lt;p&gt;Your body is the controller! Cadence is a rhythm game in which players tap along to the beats of a song on their thighs, and where certain beats are captured by high­ five-ing their teammate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_hero.png#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
+&lt;strong&gt;Timeline:&lt;/strong&gt; Fall 2016&lt;br /&gt;
+&lt;strong&gt;Course:&lt;/strong&gt; Game Design @ Queen’s University, Kingston, Canada&lt;br /&gt;
+&lt;strong&gt;Type:&lt;/strong&gt; Interaction Design, UI/UX, Prototyping, Arduino&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+&lt;h3 id=&quot;its-all-about-the-rhythm&quot;&gt;It’s All About The Rhythm&lt;/h3&gt;
+&lt;p&gt;In recent years, one video game genre that has rapidly increased in popularity is rhythm games. Rhythm games require users to complete actions that correspond to the rhythm of the song that is being played.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“When I listen to music sometimes I start tapping along to the beat. Maybe we should make a game out of it!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Popular rhythm games like Rock Band require users to play with external peripherals that are in the shape of instruments, or to make physical foot­ stepping movements like in the case of Dance Dance Revolution. However, these games do not take advantage of one of the most intuitive actions when listening to music: &lt;strong&gt;tapping along to the beat&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moreover, the current rhythm games aforementioned do not facilitate physical cooperation between players. They allow users to play multiple instruments at the same time, but they do not have a physically interactive teamwork component.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-role&quot;&gt;My Role&lt;/h3&gt;
+&lt;p&gt;I was part of the pitch team and responsible for the experience strategy and design of the gameplay. I was involved in the game interface design. I lead the hardware design work, producing the wearable sensors and made sure they were robust and comfortable to wear and be used by the game players.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-challenge&quot;&gt;The Challenge&lt;/h2&gt;
+&lt;p&gt;During the ideation process we faced three interesting technological problems:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Enabling players to use their bodies to communicate with the game&lt;/li&gt;
+  &lt;li&gt;Enabling players’ physical interactions to be communicated to the game in order to capture cooperative play&lt;/li&gt;
+  &lt;li&gt;Analyzing the audio of songs in order to automatically generate notes for gameplay&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;our-solution&quot;&gt;Our Solution&lt;/h2&gt;
+&lt;p&gt;To solve the first two problems we created a distributed system made up of micro-controllers and sensors to detect input from users’ bodies (both knee tapping and high­ five-ing), and transferring that input to Unity game engine.&lt;/p&gt;
+
+&lt;p&gt;The third problem was solved by creating a beat detection algorithm that imitates the ways in which humans perceive beats in music. This was used to analyze songs and generate beats for gameplay.&lt;/p&gt;
+
+&lt;p&gt;Our game includes a novel control scheme that requires the use of a number of external peripherals in order to enable players to utilize their body as the game “controller”. The players attach two wired square colour coded sensors (Piezo Sensors) on each leg using straps, and put on a wristband which is connected to the control box.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-design-process&quot;&gt;The Design Process&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;We used the feedback from our play-testers constantly throughout the project to guide design decisions, priorities, and create empathy amongst the users and our team.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;First, we created mock sensors with paper and cardboard and asked users to wear them pretending that they are real functional sensors. Then we presented them with our initial single player user interface and observed how users interact with the sensors and the game while making qualitative observations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_02.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;These early prototype evaluations helped us refine the initial design of the game before starting any development work. We conducted play testing sessions at each milestone go gather user feedback as we made improvements to the gameplay and game hardware.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-evolution-of-the-game-interface&quot;&gt;The Evolution Of The Game Interface&lt;/h2&gt;
+&lt;p&gt;We created a two player layout that looks like two single player schemes stacked on top of each other. Play-testers did not have issues with this design, but what they did not find intuitive was the way in which cooperative notes were displayed.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Collaborative Notes made the screen appear crowded and overwhelming.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We initially had a yellow note in the middle of the screen, in between the two players individual gameplays. Notes that were to be played collaboratively would move across the middle of the screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/cd/cadence_04.png&quot; alt=&quot;The initial two player user interface looked like two single player schemes stacked on top of each other (where player 1 is on top and player 2 is on the bottom).&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;The initial two player user interface looked like two single player schemes stacked on top of each other (where player 1 is on top and player 2 is on the bottom).&lt;/p&gt;
+
+&lt;p&gt;We received informative feedback from users, and found that these collaborative notes made the screen appear crowded and overwhelming. Moreover, a common source of feedback was that the notes were just outside the player’s vertical peripheral vision (too high or too low), causing users to often not notice them.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Collaborative Notes were just outside the player’s vertical peripheral vision, causing users to often not notice them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We decided that a shared note was not a feasible idea, and went forward with a different approach: When a note is to be played cooperatively, four hollow notes are generated from each of the player’s notes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/cd/cadence_05.png&quot; alt=&quot;Iteration to the user interface with four hollow notes for collaborative play.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Iteration to the user interface with four hollow notes for collaborative play.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We went forward with a different approach: When a note is to be played cooperatively, four hollow notes are generated from each of the player’s notes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This approach to use four hollow notes for collaborative notes was received very positively by users. Four out of six users said that upon first seeing the set of four notes appear, they felt overwhelmed, but that they quickly adjusted to it. The other two users did not feel overwhelmed at any point. When asked if the new interface was confusing, all six users said no.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/cd/cadence_06_final_ui.png&quot; alt=&quot;Final user interface with visual feedback representing the maximum combo multiplier.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Final user interface with visual feedback representing the maximum combo multiplier.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
+&lt;p&gt;The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.&lt;/p&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3L74POQHuPo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ghost</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="UX" />
+      
+        <category term="IxD" />
+      
+        <category term="Prototyping" />
+      
+
+      
+        <summary type="html">Your body is the controller! Cadence is a rhythm game in which players tap along to the beats of a song on their thighs, and where certain beats are captured by high­ five-ing their teammate.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">MagicWand</title>

@@ -45,7 +45,7 @@
     <meta property="og:site_name" content="Lahiru Maramba" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="OnTrack" />
-    <meta property="og:description" content="A mobile application that helps you keep track of important annual events such as anniversaries and birthdays. Timeline: Winter 2018 Project: Research conducted at the Human Media Lab, Queen’s University Type: Interaction Design, User Experience Design, Prototyping Motivation As an expat with some of my family and friends on the" />
+    <meta property="og:description" content="A mobile application that helps you keep track of important annual events such as anniversaries and birthdays. Timeline: Winter 2018 Type: Interaction Design, UI/UX Motivation It All Started With Just Birthdays As an expat with some of my family and friends on the other side of the world, it has" />
     <meta property="og:url" content="/portfolio/ontrack" />
     <meta property="og:image" content="/portfolio/assets/images/ot/card.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/lahiru" />
@@ -55,7 +55,7 @@
     <meta property="article:tag" content="Ux" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="OnTrack" />
-    <meta name="twitter:description" content="A mobile application that helps you keep track of important annual events such as anniversaries and birthdays. Timeline: Winter 2018 Project: Research conducted at the Human Media Lab, Queen’s University Type: Interaction Design, User Experience Design, Prototyping Motivation As an expat with some of my family and friends on the" />
+    <meta name="twitter:description" content="A mobile application that helps you keep track of important annual events such as anniversaries and birthdays. Timeline: Winter 2018 Type: Interaction Design, UI/UX Motivation It All Started With Just Birthdays As an expat with some of my family and friends on the other side of the world, it has" />
     <meta name="twitter:url" content="/portfolio/" />
     <meta name="twitter:image" content="/portfolio/assets/images/ot/card.jpg" />
     <meta name="twitter:label1" content="Written by" />
@@ -87,7 +87,7 @@
         "@type": "WebPage",
         "@id": "/portfolio/ontrack"
     },
-    "description": "A mobile application that helps you keep track of important annual events such as anniversaries and birthdays. Timeline: Winter 2018 Project: Research conducted at the Human Media Lab, Queen’s University Type: Interaction Design, User Experience Design, Prototyping Motivation As an expat with some of my family and friends on the"
+    "description": "A mobile application that helps you keep track of important annual events such as anniversaries and birthdays. Timeline: Winter 2018 Type: Interaction Design, UI/UX Motivation It All Started With Just Birthdays As an expat with some of my family and friends on the other side of the world, it has"
 }
     </script>
 
@@ -190,114 +190,84 @@ into the {body} of the default.hbs template -->
 
 <p><span class="project-intro">
 <strong>Timeline:</strong> Winter 2018<br />
-<strong>Project:</strong> Research conducted at the Human Media Lab, Queen’s University<br />
-<strong>Type:</strong> Interaction Design, User Experience Design, Prototyping<br /></span></p>
+<strong>Type:</strong> Interaction Design, UI/UX<br /></span></p>
 
 <h2 id="motivation">Motivation</h2>
-<p>As an expat with some of my family and friends on the other side of the world, it has always been pretty key for me to keep track of all the upcoming important birthdays.</p>
+<h3 id="it-all-started-with-just-birthdays">It All Started With Just Birthdays</h3>
+<p>As an expat with some of my family and friends on the other side of the world, it has always been pretty important for me to keep track of all the special upcoming birthdays. Given the distance, I need to act well advance of the event if I want to send a gift or a greeting card on time. Using a calendar for this purpose did not provide the necessary sense of urgency. So I decided to design an App to keep track of birthdays.</p>
+
+<h2 id="the-design-process">The Design Process</h2>
+<h3 id="generative-user-research">Generative User Research</h3>
+<p>I started the design process by talking to potential users of the app. My initial goal was to understand how people keep track of their important birthdays. Therefore, I started with the following research questions.</p>
+
+<ol>
+  <li>How people keep track of birthdays, what tools they use?</li>
+  <li>What are the goals of using the above tools?</li>
+  <li>What are the pain points?</li>
+</ol>
 
 <h2 id="keeping-track-of-important-annual-events">Keeping Track Of Important Annual Events</h2>
+<p>After talking to potential users I found out that they all had the need to keep track of the important annual days and not just birthdays. As a result I increased the focus of the project from tracking birthdays to tracking annual events.</p>
 
-<h3 id="the-problem">The Problem</h3>
-<p>Modern smartphones with traditional flat screens offer poor affordances for gestural interactions. The flat form factor prevents a comfortable grip hindering wrist movements. Display area of flat devices can only be viewed from one side, and the visibility reduces when the device is rotated.</p>
+<blockquote>
+  <p>The dates users were keen to keep track of had one thing in common. They occurred yearly.</p>
+</blockquote>
 
-<h3 id="the-challenge">The Challenge</h3>
-<p>How might we create a new display form factor that will offer physical affordances for actions that are quite different from those of a traditional flat form factor of a smartphone.</p>
-
-<hr />
-<h2 id="our-solution">Our Solution</h2>
-<p>A cylindrical device with a cylindrical display form factor that allows users to perform natural gestures and to explore the display area.</p>
-
-<p>Interaction design was done based on how people handle day-to-day objects. The cylindrical form factor provides a comfortable grip when performing gestural interactions.</p>
-
-<p>Success measures of the product revolve around how quickly a user can guess and performs an interaction based on the affordances provided by the cylindrical form factor and the visuals on the display.</p>
-
-<p><img src="assets/images/ot/app_isometric.jpg#full" alt="Image" /></p>
-
-<h2 id="research">Research</h2>
-<p>To bring our product into fruition, we first had to empathize and understand how humans associate with affordances.</p>
-
-<p>We started by looking for inspirations from Don Norman’s work on affordances <sup id="fnref:Book"><a href="#fn:Book" class="footnote">1</a></sup>. We learned that affordances are generated by matching the fit of the body under action to the physical shape of an object. For example, a vertical door handle affords pulling, whereas a horizontal flat bar affords pushing to open <sup id="fnref:Doors"><a href="#fn:Doors" class="footnote">2</a></sup>.</p>
-
-<h2 id="your-wrist-dont-lie">Your Wrist Don’t Lie</h2>
-
-<h3 id="ideation-process">Ideation Process</h3>
-<p>Following our primary research, I then moved onto defining design parameters for gestural input devices. In the design process of MagicWand, I considered the following design parameters.</p>
+<p>During the generative research phase I also discovered the following.</p>
 
 <ul>
-  <li>Cylindrical Shape and Ergonomic Tool Fit</li>
-  <li>Optimal Diameter and Length Tradeoff</li>
-  <li>Conformability of the FOLEDs</li>
-  <li>Conforming with Prior Gestural Game Controller Designs</li>
-  <li>Unconstrained Motion</li>
-  <li>Optimal Design Space for Wrist Gestures</li>
+  <li>Most users remember the dates of key events (birthdays of immediate family) or have a general sense of the part of the year they occur (ex: first week of March)</li>
+  <li>Users prefer a quick overview of upcoming events. This helps them reassure specific upcoming dates and make sure they have enough time to prepare for the event</li>
+  <li>Calendars do not provide a proper overview of the upcoming events</li>
+  <li>Calendars lack the sense of urgency to act on time for an upcoming event</li>
+</ul>
+
+<p><img src="assets/images/ot/user_personas.jpg" alt="Image" /></p>
+
+<hr />
+<h2 id="interaction-design-process">Interaction Design Process</h2>
+<h3 id="shneidermans-mantra">Shneiderman’s Mantra</h3>
+<p>I started the interaction design process keeping the following points in mind.</p>
+<ul>
+  <li>An easy to grasp and clear overview</li>
+  <li>Provide a sense of urgency</li>
+  <li>Quick glance view of upcoming events</li>
 </ul>
 
 <blockquote>
-  <p>We envisioned MagicWand as an extension of the user’s wrist, supporting the maximum number of degrees of freedom provided by its joints.</p>
+  <p>Overview First, Zoom and Filter, Then Details-on-Demand</p>
 </blockquote>
 
-<p><img class="image" src="assets/images/mw/wristmovements.png" alt="The wrist is capable of three sets of distinct movements: flexion and extension, radial deviation and ulnar deviation, pronation and supination." /></p>
-<p class="caption">The wrist is capable of three sets of distinct movements: flexion and extension, radial deviation and ulnar deviation, pronation and supination.</p>
+<p><img src="assets/images/ot/sketches_01.jpg" alt="Image" /></p>
 
-<p>We based our initial set of gestures for MagicWand on the above capabilities of the wrist: providing gestures for <strong>rotation</strong> (pronation/supination), <strong>tilt</strong> (flexion/extension), as well as <strong>pointing</strong> (deviation).</p>
+<h2 id="circular-vs-linear">Circular vs Linear</h2>
+<h3 id="iteration-01---circular-overview">Iteration 01 - Circular Overview</h3>
+<p>In the first design iteration I used a Circle Chart to provide an overview of the upcoming events. Each slice of the circle represents a month of the year and the area is determined by the number of events in a given month.</p>
+
+<p><img class="image" src="assets/images/ot/ot_iteration_01.gif" alt="Each slice of the circle represent a month and the area of a slice represents the number of events in that month." /></p>
+<p class="caption">Each slice of the circle represent a month and the area of a slice represents the number of events in that month.</p>
+
+<p><img src="assets/images/ot/circle_chart_view.png" alt="Image" /></p>
+
+<p>Feedback from users showed that using a circle chart provided a summary of the events. However, users found that it did not provide a clear sense of timeline.</p>
+
+<p>Based on the user feedback I revisited the design with a timeline based concept.</p>
+
+<h3 id="iteration-02---linear-overview">Iteration 02 - Linear Overview</h3>
+<p>In the second iteration used a Linear Graph to provide an overview of upcoming events. Each section represents a month and the width of a section corresponded to the number of events in that month.</p>
+
+<p><img src="assets/images/ot/timeline_view.png" alt="Image" /></p>
 
 <blockquote>
-  <p>Motion gesture design was also inspired by everyday object handling.</p>
+  <p>A count down timer provided a sense of urgency</p>
 </blockquote>
 
-<p>Motion gesture design was also inspired by everyday object handling. For example, actions such as turning a key to unlock a door, or turning a door knob to open a door, involve rotation through pronation/supination of the wrist.</p>
+<p><img src="assets/images/ot/app_isometric.jpg#full" alt="Image" /></p>
 
-<p><img src="assets/images/mw/magicw_sketches.jpg" alt="MagicWand Design Sketches" /></p>
-
-<p>When handling cylindrical fluid containers such as bottles, the object is naturally tilted through flexion extension of the wrist to drink from or pour liquid out.</p>
-
-<p>Pointing with a cylindrical object such as a remote control, laser pointer, or stick involves radial and ulnar deviations of the wrist. Deviations of the wrist becomes a motion gesture when cutting or slashing using tools such as knives and swords.</p>
-
-<p>We were similarly inspired by the swirl motion used when stirring food with a kitchen utensil such as a spoon, which involves a combination of deviation and flexion/extension actions by the wrist.</p>
-
-<hr />
-<h2 id="the-physical-product">The Physical Product</h2>
-<p>MagicWand is a cylindrical display device consisting of two 5.5” Flexible Organic Light-Emitting Diode (FOLED) screens wrapped around a 3D printed body. MagicWand features a smartphone running the Android operating system. Gesture recognition allows the use of the wand movements as a form of input.</p>
-
-<p><img class="image" src="assets/images/mw/magicwand_explodedView_2.jpg" alt="Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan." /></p>
-<p class="caption">Physical Prototype Design. (1) 3D printed body, (2) Android boards, (3) Flexible OLED Displays, (4) Cooling fan.</p>
-
-<h2 id="fantasy-game-application">Fantasy Game Application</h2>
-<p>To highlight some of MagicWand’s capabilities, we developed a first-person fantasy adventure game for aspiring wizards.</p>
-
-<blockquote>
-  <p>… — a candle, a wand, a key, a whirlwind, a sword, a magic potion, and a spoon — …</p>
-</blockquote>
-
-<p>This game requires the player to use several tools that fit a cylindrical form factor — a <strong>candle</strong>, a <strong>wand</strong>, a <strong>key</strong>, a <strong>whirlwind</strong>, a <strong>sword</strong>, a <strong>magic potion</strong>, and a <strong>spoon</strong> — to interact with characters that fit a cylindrical form. The game’s goal is to collect all the characters and transport them from the wand display to a virtual magical island on a large external display, through the application of gestures.</p>
-
-<p><img class="image" src="assets/images/mw/magicwand_gameplay.jpg" alt="A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword." /></p>
-<p class="caption">A player interacting with MagicWand, (Top) unlocking a dungeon door using a virtual Key, (Bottom) destroying a spider web that obstructs the player’s path with a Sword.</p>
-
-<p><img class="image" src="assets/images/mw/magicwand_compare.jpg" alt=" (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax." /></p>
-<p class="caption"> (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax.</p>
+<p><img src="assets/images/ot/ot_iteration_02.gif" alt="Image" /></p>
 
 <h2 id="reflection--takeaways">Reflection &amp; Takeaways</h2>
 <p>The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.</p>
-
-<p>MagicWand was designed with specific design goals and under particular technical constraints. Although the empirical findings support the design rationale, many of the details in the experimental results pertain only to the specific hardware implementation.</p>
-
-<p>When designing interactions with MagicWand we primarily relied solely on gesture control. All tasks were triggered only using motion gestures, which can be more difficult to discover than touch interactions. Based on these limitations, future work needs to be conducted to explore the interactions with both touch input and gestures combined.</p>
-
-<h2 id="video">Video</h2>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eFHyRWFf2Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<div class="footnotes">
-  <ol>
-    <li id="fn:Book">
-      <p><a href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things">Design of Everyday Things</a> <a href="#fnref:Book" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:Doors">
-      <p><a href="https://www.youtube.com/watch?v=yY96hTb8WgI">Norman Doors</a> <a href="#fnref:Doors" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 
                 </div>
             </section>
@@ -347,17 +317,18 @@ into the {body} of the default.hbs template -->
                                     
                                         
                                         
-                                            <li><a href="/portfolio/magicwand">MagicWand</a></li>
+                                            <li><a href="/portfolio/cadence">Cadence</a></li>
                                         
                                     
                                   
                                 
                                   
-                                
-                                  
-                                
-                                  
-                                
+                                    
+                                        
+                                        
+                                            <li><a href="/portfolio/magicwand">MagicWand</a></li>
+                                        
+                                    
                                   
                                 
                             </ul>
@@ -365,7 +336,7 @@ into the {body} of the default.hbs template -->
                         <footer class="read-next-card-footer">
                             <a href="/portfolio/tag/ux/">
                                 
-                                    See all 1 posts  →
+                                    See all 2 posts  →
                                 
                             </a>
                         </footer>
@@ -379,12 +350,12 @@ into the {body} of the default.hbs template -->
                 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/portfolio/magicwand">
-                <div class="post-card-image" style="background-image: url(/portfolio/assets/images/mw/magic_wand.jpg)"></div>
+            <a class="post-card-image-link" href="/portfolio/cadence">
+                <div class="post-card-image" style="background-image: url(/portfolio/assets/images/cd/cadence_hero.png)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/portfolio/magicwand">
+            <a class="post-card-content-link" href="/portfolio/cadence">
                 <header class="post-card-header">
                     
                         
@@ -402,10 +373,10 @@ into the {body} of the default.hbs template -->
                         
                     
 
-                    <h2 class="post-card-title">MagicWand</h2>
+                    <h2 class="post-card-title">Cadence</h2>
                 </header>
                 <section class="post-card-excerpt">
-                    <p>A handheld device with a fully cylindrical user interface that has a wide range of possible applications, including the use of as a game controller. Timeline: Winter 2016 Project: Research conducted at the</p>
+                    <p>Your body is the controller! Cadence is a rhythm game in which players tap along to the beats of a song on their thighs, and where certain beats are captured by high­ five-ing</p>
                 </section>
             </a>
             <footer class="post-card-meta">
