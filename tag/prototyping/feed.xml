@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/prototyping/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-18T03:47:18+00:00</updated>
+  <updated>2019-03-18T13:07:34+00:00</updated>
   <id>/portfolio/tag/prototyping/feed.xml</id>
 
   
@@ -48,7 +48,7 @@
 
 &lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
 &lt;h3 id=&quot;its-all-about-the-rhythm&quot;&gt;It’s All About The Rhythm&lt;/h3&gt;
-&lt;p&gt;In recent years, one video game genre that has rapidly increased in popularity is rhythm games. Rhythm games require users to complete actions that correspond to the rhythm of the song that is being played.&lt;/p&gt;
+&lt;p&gt;Rhythm games require users to complete actions that correspond to the rhythm of the song that is being played. In recent years, rhythm games have grown rapidly in popularity.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“When I listen to music sometimes I start tapping along to the beat. Maybe we should make a game out of it!”&lt;/p&gt;
@@ -85,6 +85,8 @@
 &lt;p&gt;First, we created mock sensors with paper and cardboard and asked users to wear them pretending that they are real functional sensors. Then we presented them with our initial single player user interface and observed how users interact with the sensors and the game while making qualitative observations.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_02.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_03.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;These early prototype evaluations helped us refine the initial design of the game before starting any development work. We conducted play testing sessions at each milestone go gather user feedback as we made improvements to the gameplay and game hardware.&lt;/p&gt;
 

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/ixd/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-18T03:47:18+00:00</updated>
+  <updated>2019-03-18T13:07:34+00:00</updated>
   <id>/portfolio/tag/ixd/feed.xml</id>
 
   
@@ -84,14 +84,15 @@
 &lt;ul&gt;
   &lt;li&gt;A clear glanceable overview&lt;/li&gt;
   &lt;li&gt;Provide a sense of urgency&lt;/li&gt;
-  &lt;li&gt;Short summary of the next upcoming event&lt;/li&gt;
+  &lt;li&gt;A summary of the next upcoming event&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Overview First, Zoom and Filter, then Details-on-Demand&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/ot/sketches_01.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/ot/sketches_01.jpg&quot; alt=&quot;I began by sketching designs that kept the Shneiderman’s Mantra as the basis.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;I began by sketching designs that kept the Shneiderman’s Mantra as the basis.&lt;/p&gt;
 
 &lt;h2 id=&quot;circular-vs-linear&quot;&gt;Circular vs Linear&lt;/h2&gt;
 &lt;h3 id=&quot;iteration-01---circular-overview&quot;&gt;Iteration 01 - Circular Overview&lt;/h3&gt;
@@ -108,9 +109,10 @@
 
 &lt;h2 id=&quot;towards-a-glanceable-overview&quot;&gt;Towards A Glanceable Overview&lt;/h2&gt;
 &lt;h3 id=&quot;iteration-02---linear-overview&quot;&gt;Iteration 02 - Linear Overview&lt;/h3&gt;
-&lt;p&gt;I used a linear graph in the second iteration to give an overview of future events. Each section represented a month and the width of a section corresponded to the number of events in that month.&lt;/p&gt;
+&lt;p&gt;I used a linear graph in the second iteration to provide an overview of future events. Each section represented a month and the width of a section corresponded to the number of events in that month.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/ot/linear_sketches.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/ot/linear_sketches.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/timeline_view.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
@@ -118,7 +120,7 @@
   &lt;p&gt;… count down timer provided a sense of urgency …&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I designed the intro screen to provide a glanceable overview of the next upcoming event. User feedback on early designs showed that a sense of urgency was created by using a countdown timer to show the number of days before the next event.&lt;/p&gt;
+&lt;p&gt;I designed the intro screen to provide a summary of the next upcoming event. User feedback on early designs showed that a sense of urgency was created by using a countdown timer to show the number of days before the next event.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -127,9 +129,11 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/ot_iteration_02.gif&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
-&lt;p&gt;The motivation behind this project came from a frustration that I personally faced when keeping track of important birthdays of my extended family. During the design process it was exciting to discover that most users shared the same problem and it was not just limited to birthdays. User feedback helped me expand project’s focus to design a better solution to address pain points when keeping track of important annual events.&lt;/p&gt;
+&lt;p&gt;The motivation behind this project came from a personal frustration I faced when keeping track of important birthdays of my extended family. During the design process it was exciting to discover that most users shared the same problem and it was not just limited to birthdays. User feedback helped me expand project’s focus to design a better solution to address pain points when keeping track of important annual events.&lt;/p&gt;
 
 &lt;p&gt;Early user feedback immensely helped with the interaction model design and a glanceable view of future events. If time was not a constraint, I would have plan to conduct more follow up interviews to obtain user feedback on actions taken through the app.&lt;/p&gt;
+
+&lt;p&gt;Providing a countdown till the next event created a sense of urgency for most users but I would like to test the design with more people to test if it makes them anxious. I would also like to test with different typography and font colours to highlight the key items of event summary and test the designs with potential users.&lt;/p&gt;
 
 &lt;p&gt;&lt;small&gt;Screens were designed in &lt;a href=&quot;https://sketchapp.com/&quot;&gt;Sketch&lt;/a&gt; and animated in &lt;a href=&quot;https://principleformac.com&quot;&gt;Principle&lt;/a&gt;.&lt;/small&gt;
 &lt;small&gt;Party Icons made by &lt;a href=&quot;https://www.flaticon.com/authors/srip&quot;&gt;srip&lt;/a&gt; from &lt;a href=&quot;https://www.flaticon.com/&quot;&gt;FlatIcon&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;</content>
@@ -179,7 +183,7 @@
 
 &lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
 &lt;h3 id=&quot;its-all-about-the-rhythm&quot;&gt;It’s All About The Rhythm&lt;/h3&gt;
-&lt;p&gt;In recent years, one video game genre that has rapidly increased in popularity is rhythm games. Rhythm games require users to complete actions that correspond to the rhythm of the song that is being played.&lt;/p&gt;
+&lt;p&gt;Rhythm games require users to complete actions that correspond to the rhythm of the song that is being played. In recent years, rhythm games have grown rapidly in popularity.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“When I listen to music sometimes I start tapping along to the beat. Maybe we should make a game out of it!”&lt;/p&gt;
@@ -216,6 +220,8 @@
 &lt;p&gt;First, we created mock sensors with paper and cardboard and asked users to wear them pretending that they are real functional sensors. Then we presented them with our initial single player user interface and observed how users interact with the sensors and the game while making qualitative observations.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_02.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_03.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;These early prototype evaluations helped us refine the initial design of the game before starting any development work. We conducted play testing sessions at each milestone go gather user feedback as we made improvements to the gameplay and game hardware.&lt;/p&gt;
 
