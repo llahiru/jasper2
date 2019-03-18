@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/prototyping/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-17T05:24:36+00:00</updated>
+  <updated>2019-03-18T03:47:18+00:00</updated>
   <id>/portfolio/tag/prototyping/feed.xml</id>
 
   
@@ -59,7 +59,7 @@
 &lt;p&gt;Moreover, the current rhythm games aforementioned do not facilitate physical cooperation between players. They allow users to play multiple instruments at the same time, but they do not have a physically interactive teamwork component.&lt;/p&gt;
 
 &lt;h3 id=&quot;my-role&quot;&gt;My Role&lt;/h3&gt;
-&lt;p&gt;I was part of the pitch team and responsible for the experience strategy and design of the gameplay. I was involved in the game interface design. I lead the hardware design work, producing the wearable sensors and made sure they were robust and comfortable to wear and be used by the game players.&lt;/p&gt;
+&lt;p&gt;I was part of the pitch team and was responsible for the experience strategy and design of the gameplay. I was involved in the game interface and interaction design. I led the hardware design tasks, producing the wearable sensors that were robust and comfortable to wear and be used by the game players.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-challenge&quot;&gt;The Challenge&lt;/h2&gt;
 &lt;p&gt;During the ideation process we faced three interesting technological problems:&lt;/p&gt;
@@ -119,9 +119,6 @@
 
 &lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/cd/cadence_06_final_ui.png&quot; alt=&quot;Final user interface with visual feedback representing the maximum combo multiplier.&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;caption&quot;&gt;Final user interface with visual feedback representing the maximum combo multiplier.&lt;/p&gt;
-
-&lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
-&lt;p&gt;The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.&lt;/p&gt;
 
 &lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3L74POQHuPo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>

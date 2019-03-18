@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/ux/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-17T05:24:36+00:00</updated>
+  <updated>2019-03-18T03:47:18+00:00</updated>
   <id>/portfolio/tag/ux/feed.xml</id>
 
   
@@ -47,30 +47,30 @@
 
 &lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
 &lt;h3 id=&quot;it-all-started-with-just-birthdays&quot;&gt;It All Started With Just Birthdays&lt;/h3&gt;
-&lt;p&gt;As an expat with some of my family and friends on the other side of the world, it has always been pretty important for me to keep track of all the special upcoming birthdays. Given the distance, I need to act well advance of the event if I want to send a gift or a greeting card on time. Using a calendar for this purpose did not provide the necessary sense of urgency. So I decided to design an App to keep track of birthdays.&lt;/p&gt;
+&lt;p&gt;As an expat with half of my family and friends on the other side of the world, keeping track of all the special upcoming birthdays has always been very important to me. Given the distance, I need to act well in advance for an event if I would want to send a gift or a greeting card on time. Using a calendar for this purpose did not provide the necessary sense of urgency. So I decided to design a mobile app to keep track of birthdays.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-design-process&quot;&gt;The Design Process&lt;/h2&gt;
 &lt;h3 id=&quot;generative-user-research&quot;&gt;Generative User Research&lt;/h3&gt;
-&lt;p&gt;I started the design process by talking to potential users of the app. My initial goal was to understand how people keep track of their important birthdays. Therefore, I started with the following research questions.&lt;/p&gt;
+&lt;p&gt;I started my design process by talking to potential users of the app. My initial goal was to understand how people keep track of their important birthdays. Therefore, I started with the following research questions.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;How people keep track of birthdays, what tools they use?&lt;/li&gt;
-  &lt;li&gt;What are the goals of using the above tools?&lt;/li&gt;
-  &lt;li&gt;What are the pain points?&lt;/li&gt;
+  &lt;li&gt;What are the user goals with above tools?&lt;/li&gt;
+  &lt;li&gt;What are the main pain points?&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&quot;keeping-track-of-important-annual-events&quot;&gt;Keeping Track Of Important Annual Events&lt;/h2&gt;
-&lt;p&gt;After talking to potential users I found out that they all had the need to keep track of the important annual days and not just birthdays. As a result I increased the focus of the project from tracking birthdays to tracking annual events.&lt;/p&gt;
+&lt;p&gt;After talking to potential users I found out that they all needed to &lt;strong&gt;keep track of important annual days, not just birthdays.&lt;/strong&gt; As a result, I increased the focus of the project from tracking birthdays to tracking annual events.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The dates users were keen to keep track of had one thing in common. They occurred yearly.&lt;/p&gt;
+  &lt;p&gt;The dates users were keen to keep track of had one thing in common. They happened annually.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;During the generative research phase I also discovered the following.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Most users remember the dates of key events (birthdays of immediate family) or have a general sense of the part of the year they occur (ex: first week of March)&lt;/li&gt;
-  &lt;li&gt;Users prefer a quick overview of upcoming events. This helps them reassure specific upcoming dates and make sure they have enough time to prepare for the event&lt;/li&gt;
+  &lt;li&gt;Most users remember the dates of key events (birthdays of immediate family) or have a general sense of the part of the year that they occur (First week of March etc.)&lt;/li&gt;
+  &lt;li&gt;Users prefer a glanceable overview of upcoming events. This helps them reassure specific upcoming dates and that they have enough time to prepare for the event&lt;/li&gt;
   &lt;li&gt;Calendars do not provide a proper overview of the upcoming events&lt;/li&gt;
   &lt;li&gt;Calendars lack the sense of urgency to act on time for an upcoming event&lt;/li&gt;
 &lt;/ul&gt;
@@ -82,45 +82,57 @@
 &lt;h3 id=&quot;shneidermans-mantra&quot;&gt;Shneiderman’s Mantra&lt;/h3&gt;
 &lt;p&gt;I started the interaction design process keeping the following points in mind.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;An easy to grasp and clear overview&lt;/li&gt;
+  &lt;li&gt;A clear glanceable overview&lt;/li&gt;
   &lt;li&gt;Provide a sense of urgency&lt;/li&gt;
-  &lt;li&gt;Quick glance view of upcoming events&lt;/li&gt;
+  &lt;li&gt;Short summary of the next upcoming event&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Overview First, Zoom and Filter, Then Details-on-Demand&lt;/p&gt;
+  &lt;p&gt;Overview First, Zoom and Filter, then Details-on-Demand&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/sketches_01.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;circular-vs-linear&quot;&gt;Circular vs Linear&lt;/h2&gt;
 &lt;h3 id=&quot;iteration-01---circular-overview&quot;&gt;Iteration 01 - Circular Overview&lt;/h3&gt;
-&lt;p&gt;In the first design iteration I used a Circle Chart to provide an overview of the upcoming events. Each slice of the circle represents a month of the year and the area is determined by the number of events in a given month.&lt;/p&gt;
+&lt;p&gt;In the first design iteration I used a Circle Chart to provide an overview of the upcoming events. Each slice of the circle represented a month of the year and the area was determined by the number of events in a given month.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/ot/ot_iteration_01.gif&quot; alt=&quot;Each slice of the circle represent a month and the area of a slice represents the number of events in that month.&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;caption&quot;&gt;Each slice of the circle represent a month and the area of a slice represents the number of events in that month.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/circle_chart_view.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Feedback from users showed that using a circle chart provided a summary of the events. However, users found that it did not provide a clear sense of timeline.&lt;/p&gt;
+&lt;p&gt;Feedback from users showed that using a circle chart provided a glanceable summary of the events. However, users found that it did not provide a clear sense of a timeline.&lt;/p&gt;
 
-&lt;p&gt;Based on the user feedback I revisited the design with a timeline based concept.&lt;/p&gt;
+&lt;p&gt;Based on the user feedback I revisited the design with a timeline-based concept in mind.&lt;/p&gt;
 
+&lt;h2 id=&quot;towards-a-glanceable-overview&quot;&gt;Towards A Glanceable Overview&lt;/h2&gt;
 &lt;h3 id=&quot;iteration-02---linear-overview&quot;&gt;Iteration 02 - Linear Overview&lt;/h3&gt;
-&lt;p&gt;In the second iteration used a Linear Graph to provide an overview of upcoming events. Each section represents a month and the width of a section corresponded to the number of events in that month.&lt;/p&gt;
+&lt;p&gt;I used a linear graph in the second iteration to give an overview of future events. Each section represented a month and the width of a section corresponded to the number of events in that month.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/ot/linear_sketches.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/timeline_view.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A count down timer provided a sense of urgency&lt;/p&gt;
+  &lt;p&gt;… count down timer provided a sense of urgency …&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;I designed the intro screen to provide a glanceable overview of the next upcoming event. User feedback on early designs showed that a sense of urgency was created by using a countdown timer to show the number of days before the next event.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/app_isometric.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/ot_iteration_02.gif&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
-&lt;p&gt;The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.&lt;/p&gt;</content>
+&lt;p&gt;The motivation behind this project came from a frustration that I personally faced when keeping track of important birthdays of my extended family. During the design process it was exciting to discover that most users shared the same problem and it was not just limited to birthdays. User feedback helped me expand project’s focus to design a better solution to address pain points when keeping track of important annual events.&lt;/p&gt;
+
+&lt;p&gt;Early user feedback immensely helped with the interaction model design and a glanceable view of future events. If time was not a constraint, I would have plan to conduct more follow up interviews to obtain user feedback on actions taken through the app.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Screens were designed in &lt;a href=&quot;https://sketchapp.com/&quot;&gt;Sketch&lt;/a&gt; and animated in &lt;a href=&quot;https://principleformac.com&quot;&gt;Principle&lt;/a&gt;.&lt;/small&gt;
+&lt;small&gt;Party Icons made by &lt;a href=&quot;https://www.flaticon.com/authors/srip&quot;&gt;srip&lt;/a&gt; from &lt;a href=&quot;https://www.flaticon.com/&quot;&gt;FlatIcon&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;</content>
 
       
       
@@ -178,7 +190,7 @@
 &lt;p&gt;Moreover, the current rhythm games aforementioned do not facilitate physical cooperation between players. They allow users to play multiple instruments at the same time, but they do not have a physically interactive teamwork component.&lt;/p&gt;
 
 &lt;h3 id=&quot;my-role&quot;&gt;My Role&lt;/h3&gt;
-&lt;p&gt;I was part of the pitch team and responsible for the experience strategy and design of the gameplay. I was involved in the game interface design. I lead the hardware design work, producing the wearable sensors and made sure they were robust and comfortable to wear and be used by the game players.&lt;/p&gt;
+&lt;p&gt;I was part of the pitch team and was responsible for the experience strategy and design of the gameplay. I was involved in the game interface and interaction design. I led the hardware design tasks, producing the wearable sensors that were robust and comfortable to wear and be used by the game players.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-challenge&quot;&gt;The Challenge&lt;/h2&gt;
 &lt;p&gt;During the ideation process we faced three interesting technological problems:&lt;/p&gt;
@@ -238,9 +250,6 @@
 
 &lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/cd/cadence_06_final_ui.png&quot; alt=&quot;Final user interface with visual feedback representing the maximum combo multiplier.&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;caption&quot;&gt;Final user interface with visual feedback representing the maximum combo multiplier.&lt;/p&gt;
-
-&lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
-&lt;p&gt;The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.&lt;/p&gt;
 
 &lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3L74POQHuPo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
