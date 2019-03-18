@@ -1928,8 +1928,12 @@ Usage (In Ghost editor):
     line-height: normal;
 }
 
+.post-full-content .image {
+    width: 85%;
+}
+
 .post-full-content .caption {
-    /*margin-top: -50px;*/
+    margin-top: -40px;
     font-size: 0.8em;
     font-style: italic;
     text-align: left;
