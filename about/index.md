@@ -7,11 +7,39 @@ logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
+<br />
+I am an Engineer and a Designer who is highly interested in Human Computer Interaction, User Experience, Educational Technologies, Organic User Interfaces, Responsive Environments and Computer Sensing.
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+I started my journey as a Software Engineer then turned into an Entrepreneur, Researcher, and a Designer. In January 2017, I completed my Masters in Human Computer Interaction at Queen's University, Canada and I am fascinated with technology and designs that improves interactions between human and machines.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+I co-founded Kreyonic, co-invented STEAMBlocks, and was part of Communitech HYPERDRIVE accelerator cohort 3.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+`Mobile` `Software Engineering` `Prototyping` `HCI` `User Experience & Design` `Hardware Prototyping` `Start-Ups`
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+`C++` `Objective-C` `Swift` `iOS` `Android` `Xcode` `C#` `Unity` `OpenCV` `Javascript` `Git`
+
+---
+## Publications
+### 2018
+MagicWand: Exploring Physical Affordances with a Handheld Cylindrical Display Object
+<small>Gomes, Antonio, et al. Magicscroll: a rollable display device with flexible screen real estate and gestural input. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services. ACM, 2018.</small>
+
+### 2017
+MagicWand: A Comparison of Gestural Affordances Between Cylindrical and Flat Display Form Factors
+<small>L. Priyadarshana. MagicWand: A Comparison of Gestural Affordances Between Cylindrical and Flat Display Form Factors. (MSc. Thesis). Queen's University, Kingston, Ontario, Canada. 2017.</small>
+
+### 2016
+MagicWand: Exploring Physical Affordances with a Handheld Cylindrical Display Object
+<small>Lahiru Maramba, Victoria Porter, Juan Pablo Carrascal, Aaron Visser, and Roel Vertegaal. MagicWand: Exploring Physical Affordances with a Handheld Cylindrical Display Object. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '16). ACM, New York, NY, USA, 3762-3765.</small>
+
+### 2016
+WhammyPhone: Exploring Tangible Audio Manipulation Using Bend Input on a Flexible Smartphone
+<small>Antonio Gomes, Lahiru Priyadarshana, Juan Pablo Carrascal, and Roel Vertegaal. WhammyPhone: Exploring Tangible Audio Manipulation Using Bend Input on a Flexible Smartphone. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16 Adjunct). ACM, New York, NY, USA, 159-161.</small>
+
+### 2011
+InteractiveDisplay: A Computer-Vision-Based Solution to Retrofit Existing Flat Displays Into Interactive Surfaces
+<small>Lahiru L. Priyadarshana, Kulari De Silva Lokuge. InteractiveDisplay: A Computer-Vision-Based Solution to Retrofit Existing Flat Displays Into Interactive Surfaces. ISCI 2011 IEEE Symposium on Computers & Informatics, Kuala Lumpur, Malaysia. March 2011</small>
+
+### 2009
+iDisplay: A Computer-Vision Based Solution to Retrofit Existing Flat Displays into Interactive Surfaces
+<small>L. Priyadarshana. iDisplay: A Computer-Vision Based Solution to Retrofit Existing Flat Displays into Interactive Surfaces. (BSc. Thesis). Informatics Institute of Technology, Sri Lanka. 2009.</small>
