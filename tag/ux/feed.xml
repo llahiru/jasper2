@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/ux/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-18T13:07:34+00:00</updated>
+  <updated>2019-03-18T13:13:13+00:00</updated>
   <id>/portfolio/tag/ux/feed.xml</id>
 
   
@@ -185,6 +185,8 @@
 &lt;h3 id=&quot;its-all-about-the-rhythm&quot;&gt;It’s All About The Rhythm&lt;/h3&gt;
 &lt;p&gt;Rhythm games require users to complete actions that correspond to the rhythm of the song that is being played. In recent years, rhythm games have grown rapidly in popularity.&lt;/p&gt;
 
+&lt;p&gt;Sometimes I find myself tapping on my thighs to the beat when I listen to music. I pitch this idea to the team and we decided to make it a gameplay.&lt;/p&gt;
+
 &lt;blockquote&gt;
   &lt;p&gt;“When I listen to music sometimes I start tapping along to the beat. Maybe we should make a game out of it!”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -223,7 +225,7 @@
 
 &lt;p&gt;&lt;img src=&quot;assets/images/cd/cadence_03.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;These early prototype evaluations helped us refine the initial design of the game before starting any development work. We conducted play testing sessions at each milestone go gather user feedback as we made improvements to the gameplay and game hardware.&lt;/p&gt;
+&lt;p&gt;These early prototype evaluations helped us refine the initial design of the game before starting any development work. We conducted play testing sessions at each milestone to gather user feedback as we made improvements to the gameplay and game hardware.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-evolution-of-the-game-interface&quot;&gt;The Evolution Of The Game Interface&lt;/h2&gt;
 &lt;p&gt;We created a two player layout that looks like two single player schemes stacked on top of each other. Play-testers did not have issues with this design, but what they did not find intuitive was the way in which cooperative notes were displayed.&lt;/p&gt;
