@@ -4,7 +4,7 @@
   class: post-template
   tags: [Objective-C, iOS, Cocos2D]
   cover: assets/images/other/toys.png
-  url: http://vimeo.com/80838799
+  url: https://vimeo.com/80838799
 
 - title: WhammyPhone
   description: WhammyPhone is a completely new way of interacting with sound using a smartphone. It allows users to bend the display in order to create sound effects on a virtual instrument, such as a guitar or violin. Research conducted at the Human Media Lab, Queen's University.
