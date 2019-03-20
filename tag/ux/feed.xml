@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/portfolio/tag/ux/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/portfolio/" rel="alternate" type="text/html" />
-  <updated>2019-03-18T13:13:13+00:00</updated>
+  <updated>2019-03-20T02:28:33+00:00</updated>
   <id>/portfolio/tag/ux/feed.xml</id>
 
   
@@ -37,7 +37,7 @@
       <published>2019-03-12T10:00:00+00:00</published>
       <updated>2019-03-12T10:00:00+00:00</updated>
       <id>/portfolio/ontrack</id>
-      <content type="html" xml:base="/portfolio/ontrack">&lt;p&gt;A mobile application that helps you keep track of important annual events such as anniversaries and birthdays.&lt;/p&gt;
+      <content type="html" xml:base="/portfolio/ontrack">&lt;p&gt;A mobile application design that helps you keep track of important annual events such as anniversaries and birthdays.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/cover.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
@@ -55,7 +55,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;How people keep track of birthdays, what tools they use?&lt;/li&gt;
-  &lt;li&gt;What are the user goals with above tools?&lt;/li&gt;
+  &lt;li&gt;What are the user goals with the above tools?&lt;/li&gt;
   &lt;li&gt;What are the main pain points?&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -66,7 +66,7 @@
   &lt;p&gt;The dates users were keen to keep track of had one thing in common. They happened annually.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;During the generative research phase I also discovered the following.&lt;/p&gt;
+&lt;p&gt;During the generative research phase, I also discovered the following.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Most users remember the dates of key events (birthdays of immediate family) or have a general sense of the part of the year that they occur (First week of March etc.)&lt;/li&gt;
@@ -129,9 +129,9 @@
 &lt;p&gt;&lt;img src=&quot;assets/images/ot/ot_iteration_02.gif&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
-&lt;p&gt;The motivation behind this project came from a personal frustration I faced when keeping track of important birthdays of my extended family. During the design process it was exciting to discover that most users shared the same problem and it was not just limited to birthdays. User feedback helped me expand project’s focus to design a better solution to address pain points when keeping track of important annual events.&lt;/p&gt;
+&lt;p&gt;The motivation behind this project came from a personal frustration I faced when keeping track of important birthdays of my extended family. During the design process, it was exciting to discover that most users shared the same problem and it was not just limited to birthdays. User feedback helped me expand the project’s focus to design a better solution to address pain points when keeping track of important annual events.&lt;/p&gt;
 
-&lt;p&gt;Early user feedback immensely helped with the interaction model design and a glanceable view of future events. If time was not a constraint, I would have plan to conduct more follow up interviews to obtain user feedback on actions taken through the app.&lt;/p&gt;
+&lt;p&gt;Early user feedback immensely helped with the interaction model design and a glanceable view of future events. If time was not a constraint, I would have planned to conduct more follow up interviews to obtain user feedback on actions taken through the app.&lt;/p&gt;
 
 &lt;p&gt;Providing a countdown till the next event created a sense of urgency for most users but I would like to test the design with more people to test if it makes them anxious. I would also like to test with different typography and font colours to highlight the key items of event summary and test the designs with potential users.&lt;/p&gt;
 
@@ -159,7 +159,7 @@
       
 
       
-        <summary type="html">A mobile application that helps you keep track of important annual events such as anniversaries and birthdays.</summary>
+        <summary type="html">A mobile application design that helps you keep track of important annual events such as anniversaries and birthdays.</summary>
       
 
       
@@ -185,13 +185,13 @@
 &lt;h3 id=&quot;its-all-about-the-rhythm&quot;&gt;It’s All About The Rhythm&lt;/h3&gt;
 &lt;p&gt;Rhythm games require users to complete actions that correspond to the rhythm of the song that is being played. In recent years, rhythm games have grown rapidly in popularity.&lt;/p&gt;
 
-&lt;p&gt;Sometimes I find myself tapping on my thighs to the beat when I listen to music. I pitch this idea to the team and we decided to make it a gameplay.&lt;/p&gt;
+&lt;p&gt;Sometimes I find myself tapping on my thighs to the beat when I listen to music. I pitched this interaction idea to the team and we decided to design a game around it.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“When I listen to music sometimes I start tapping along to the beat. Maybe we should make a game out of it!”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Popular rhythm games like Rock Band require users to play with external peripherals that are in the shape of instruments, or to make physical foot­ stepping movements like in the case of Dance Dance Revolution. However, these games do not take advantage of one of the most intuitive actions when listening to music: &lt;strong&gt;tapping along to the beat&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Popular rhythm games like Rock Band require users to play with external peripherals that are in the shape of instruments or to make physical foot­ stepping movements like in the case of Dance Dance Revolution. However, these games do not take advantage of one of the most intuitive actions when listening to music: &lt;strong&gt;tapping along to the beat&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Moreover, the current rhythm games aforementioned do not facilitate physical cooperation between players. They allow users to play multiple instruments at the same time, but they do not have a physically interactive teamwork component.&lt;/p&gt;
 
