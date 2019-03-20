@@ -1,0 +1,39 @@
+- title: Interactive Plush toys
+  description: A set of farm animals from the magical farm land far far away, made of fabric (plush toys). They come bundled with an interactive educational tablet application.<br /><br />Children can place toys on the tablet screen and the application presents a variety of creative activities based on the type of toy.
+  type: Project
+  class: post-template
+  tags: [Objective-C, iOS, Cocos2D]
+  cover: assets/images/other/toys.png
+  url: http://vimeo.com/80838799
+
+- title: WhammyPhone
+  description: WhammyPhone is a completely new way of interacting with sound using a smartphone. It allows users to bend the display in order to create sound effects on a virtual instrument, such as a guitar or violin. Research conducted at the Human Media Lab, Queen's University.
+  type: Project
+  class: post-template
+  tags: [Music Interface, Android, Arduino, Hardware Prototyping]
+  cover: assets/images/other/whammyphone.png
+  url: https://youtu.be/pUIo-Yt2QSc
+
+- title: STEAMBlocks
+  description: Modular Platform of Programmable Electronic Blocks that encourages children in public school and high-school to experiment with smart structures using an easy to learn, graphical interface.
+  type: Project
+  class: post-template
+  tags: [Objective-C, iOS, Cocos2D, Bluetooth Low Energy, Arduino]
+  cover: assets/images/other/lego2.png
+  url: https://www.youtube.com/watch?v=n_qrVovBL2E
+
+- title: TinyTaps - Weekend Game Challenge
+  description: A simple game I built in a few hours over a weekend. Why you may ask? Why not? :) <br /><br /> I made all the assets in Adobe Illustrator, except for those cute little characters from Sago Mini on the see-saw. Adobe After Effects came to the rescue for animations.
+  type: Project
+  class: post-template
+  tags: [Unity, Adobe Illustrator, Adobe After Effects]
+  cover: assets/images/other/tinytaps.png
+  url: https://www.youtube.com/watch?v=qXrlMdK1SyA
+
+- title: Leamo
+  description: An Interactive Educational Gaming Platform for young children. Leamo helps children develop language, innovative thinking, interactive intelligence, creative thinking skills, psychomotor skills, and reactive skills. Leamo runs on your smartphone ot tablet and easily connects to your television set or a computer screen.
+  type: Project
+  class: post-template
+  tags: [iOS, Cocos2D, OpenFrameworks, OpenCV, Qualcomm, Vuforia SDK]
+  cover: assets/images/other/project3.png
+  url: https://vimeo.com/55430800
