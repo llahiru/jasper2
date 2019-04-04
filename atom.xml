@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>Focals Retail Demo</title>
+        
+          <description>&lt;p&gt;A demo experience on Focals smart-glasses to showcase features of the product to potential customers.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 25 Mar 2019 10:00:00 +0000</pubDate>
+        <link>
+        /retaildemo</link>
+        <guid isPermaLink="true">/retaildemo</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>OnTrack</title>
         
           <description>&lt;p&gt;A mobile application design that helps you keep track of important annual events such as anniversaries and birthdays.&lt;/p&gt;
@@ -33,6 +48,21 @@
         <link>
         /cadence</link>
         <guid isPermaLink="true">/cadence</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Prototyping The Future of Smart Glasses</title>
+        
+          <description>&lt;p&gt;Prototypes and early features built for Focals Smart Glasses at North Inc. Including Amazon Alexa integration, Speech to Text, and Screenshot Share.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 10 Apr 2018 10:00:00 +0000</pubDate>
+        <link>
+        /prototyping</link>
+        <guid isPermaLink="true">/prototyping</guid>
       </item>
       
     

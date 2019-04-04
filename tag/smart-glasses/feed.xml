@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/smart-glasses/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2019-04-04T01:21:45+00:00</updated>
+  <id>/tag/smart-glasses/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Lahiru Maramba | </title>
+  
+
+  
+    <subtitle>Engineering &amp; Design Portfolio of Lahiru Maramba</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Prototyping The Future of Smart Glasses</title>
+      <link href="/prototyping" rel="alternate" type="text/html" title="Prototyping The Future of Smart Glasses" />
+      <published>2018-04-10T10:00:00+00:00</published>
+      <updated>2018-04-10T10:00:00+00:00</updated>
+      <id>/prototyping</id>
+      <content type="html" xml:base="/prototyping">&lt;p&gt;Prototypes and early features built for Focals Smart Glasses at North Inc. Including Amazon Alexa integration, Speech to Text, and Screenshot Share.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/frd/north_pty_cover.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
+&lt;strong&gt;Timeline:&lt;/strong&gt; Winter 2017 to Present&lt;br /&gt;
+&lt;strong&gt;Organization&lt;/strong&gt; &lt;a href=&quot;https://www.bynorth.com/&quot; target=&quot;external&quot;&gt;North Inc.&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Team:&lt;/strong&gt; Software Prototyping&lt;br /&gt;
+&lt;strong&gt;Type:&lt;/strong&gt; Prototyping, Mobile Engineering, Interaction Design, UI/UX&lt;br /&gt;
+&lt;strong&gt;Technologies:&lt;/strong&gt; C++, Qt, C, Swift, Kotlin, Java, iOS, Android, React&lt;br /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;full-width&quot;&gt;
+  &lt;div class=&quot;wrap&quot;&gt;I have worked on a number of prototypes and early concepts for smart-glasses at North. Due to confidentiality, some of the work cannot be published. Below are some examples of my work at North that are now available in the final product.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;screenshot-share&quot;&gt;Screenshot Share&lt;/h2&gt;
+&lt;p&gt;This feature allows users to share what they see on Focals with their contacts or on their social media networks. Users can add a personal touch and snap a photo with their smartphone camera as a screenshot background.&lt;/p&gt;
+
+&lt;h3 id=&quot;motivation&quot;&gt;Motivation&lt;/h3&gt;
+&lt;p&gt;There was no quick and easy way for users to share what they are seeing on their glasses. We assumed that providing a quick and easy way to share screenshots would be valuable for the following reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Allows users to share their excitement about product use cases, which is fun for the user and beneficial for our marketing efforts&lt;/li&gt;
+  &lt;li&gt;Allows users to better communicate frustrations over product features that fail to live up to expectations so that we can improve the product&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;our-goals&quot;&gt;Our Goals&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Allow the user to press a button in Focals Companion mobile app to take a screenshot&lt;/li&gt;
+  &lt;li&gt;Allow the user to select from multiple background images to make the screenshot more interesting&lt;/li&gt;
+  &lt;li&gt;Make the final composition sharable directly from the mobile app&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;challenges&quot;&gt;Challenges&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Limited ability to overload existing input methods to ensure fast and easy screenshot captures&lt;/li&gt;
+  &lt;li&gt;Creating an appealing screenshot with a background image&lt;/li&gt;
+  &lt;li&gt;Overlay a screenshot on any background such that the screenshot is clearly legible&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/frd/user_flow_ss.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;initial-user-feedback&quot;&gt;Initial User Feedback&lt;/h3&gt;
+&lt;p&gt;We conduced multiple demos for selected groups of internal users and gathered their feedback on the first iteration (a low-fidelity prototype) of the feature.&lt;/p&gt;
+
+&lt;p&gt;All participants preferred the ability to share what they see on Focals as a screenshot. Users mentioned that they would use screenshots to share the moments they experience on Focals. As a result of our findings this feature was graduated from a prototype to a feature in the final product.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/frd/screenshot_share.png&quot; alt=&quot;Screenshot Share feature is now available on Focals Companion App as part of the final product&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Screenshot Share feature is now available on Focals Companion App as part of the final product&lt;/p&gt;
+
+&lt;h2 id=&quot;alexa&quot;&gt;Alexa&lt;/h2&gt;
+&lt;p&gt;I was part of the design and implementation team of the very first integration of Alexa on Focals smart-glasses. My role was to develop the initial interaction and software to connect Focals with Amazon Alexa services.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/frd/alexa_pty.png&quot; alt=&quot;User flow and screens of the initial integration of Amazon Alexa on Focals.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;User flow and screens of the initial integration of Amazon Alexa on Focals.&lt;/p&gt;
+
+&lt;p&gt;Now, Focals come with Alexa built-in. Users can ask Alexa to play music, hear the news, see the weather, and control their smart home and more.&lt;/p&gt;
+
+&lt;h2 id=&quot;speech-to-text&quot;&gt;Speech to Text&lt;/h2&gt;
+&lt;p&gt;I designed and implemented the very first version of Speech to Text feature on Focals smart-glasses. This initial implementation helped us test transcription accuracy and audio capture capabilities on Focals by conducting experiments and user studies. Speech to Text feature is now used in the final product as one of the main user input methods.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/frd/vtt.png&quot; alt=&quot;Speech to Text is used as a method of input on Focals when composing a message.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Speech to Text is used as a method of input on Focals when composing a message.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ghost</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Smart-glasses" />
+      
+        <category term="Mobile" />
+      
+        <category term="UX" />
+      
+        <category term="Prototyping" />
+      
+
+      
+        <summary type="html">Prototypes and early features built for Focals Smart Glasses at North Inc. Including Amazon Alexa integration, Speech to Text, and Screenshot Share.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

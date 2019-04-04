@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/mobile-engineering/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2019-04-04T01:21:45+00:00</updated>
+  <id>/tag/mobile-engineering/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Lahiru Maramba | </title>
+  
+
+  
+    <subtitle>Engineering &amp; Design Portfolio of Lahiru Maramba</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Focals Retail Demo</title>
+      <link href="/retaildemo" rel="alternate" type="text/html" title="Focals Retail Demo" />
+      <published>2019-03-25T10:00:00+00:00</published>
+      <updated>2019-03-25T10:00:00+00:00</updated>
+      <id>/retaildemo</id>
+      <content type="html" xml:base="/retaildemo">&lt;p&gt;A demo experience on Focals smart-glasses to showcase features of the product to potential customers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/frd/cover.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;project-intro&quot;&gt;
+&lt;strong&gt;Timeline:&lt;/strong&gt; Summer 2018&lt;br /&gt;
+&lt;strong&gt;Organization&lt;/strong&gt; &lt;a href=&quot;https://www.bynorth.com/&quot; target=&quot;external&quot;&gt;North Inc.&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Team:&lt;/strong&gt; Software Prototyping&lt;br /&gt;
+&lt;strong&gt;Type:&lt;/strong&gt; Interaction Design, UI/UX, Mobile Engineering&lt;br /&gt;
+&lt;strong&gt;Tools and Technologies:&lt;/strong&gt; C++, Qt, Java, Kotlin, Android, Sketch&lt;br /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;full-width&quot;&gt;
+  &lt;div class=&quot;wrap&quot;&gt;Due to the confidentiality of this work, some sections are omitted and focused solely on the design and implementation process.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+&lt;h3 id=&quot;to-give-a-killer-product-demo&quot;&gt;To Give a Killer Product Demo&lt;/h3&gt;
+&lt;p&gt;Focals are custom-built smart glasses with a display only the wearer can see. The Retail Team members often find it challenging when running product demos as they are unable to see what is visible to the user. If the user asks a question during a demo or has trouble interacting with the device, without knowing exactly what is visible to the user, it is difficult to provide a solution. Taking the user through scenarios is imperative to demonstrate different product features.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-role&quot;&gt;My Role&lt;/h3&gt;
+&lt;p&gt;I led the design and implementation of the initial version of the demo feature.
+I was also responsible for handling the transition of the project to the Production Engineering team once the feature was complete.&lt;/p&gt;
+
+&lt;h2 id=&quot;user-centered-design-process&quot;&gt;User Centered Design Process&lt;/h2&gt;
+&lt;h3 id=&quot;figuring-out-the-must-haves&quot;&gt;Figuring out the must haves&lt;/h3&gt;
+&lt;p&gt;We started our design process by talking to users and direct stakeholders of the project. In this case our &lt;strong&gt;users&lt;/strong&gt; were Retail Team members and facilitators of product demonstrations. These discussions helped us uncover the core needs of our users. We then prioritized the requirements and identified the must have features to conduct a successful demo session.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Generative user research helped us uncover the core needs of demo facilitators and prioritize requirements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;our-goal&quot;&gt;Our Goal&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Provide a system to demonstrate different features of Focals by triggering custom messages, calendar events, and notifications.&lt;/li&gt;
+  &lt;li&gt;Provide demonstrators with the ability to easily start product demonstrations, stop an active session and move on to a new demo when necessary.&lt;/li&gt;
+  &lt;li&gt;Provide a solution that mirrors what the user sees on their glasses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/frd/user_flow_00.jpg#full&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-user-flow&quot;&gt;The User Flow&lt;/h2&gt;
+&lt;p&gt;After defining the problem and identifying key features, I started designing the user flow. The user flow helped us clearly identify the different screens that the user would find and the steps that the user would take, which was then later converted into development tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/frd/user_flow_01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image&quot; src=&quot;assets/images/frd/user_flow_02.png&quot; alt=&quot;The initial user flow design created on a whiteboard with sticky notes was then converted into a final design in Sketch.&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;The initial user flow design created on a whiteboard with sticky notes was then converted into a final design in Sketch.&lt;/p&gt;
+
+&lt;h2 id=&quot;implementation&quot;&gt;Implementation&lt;/h2&gt;
+&lt;h3 id=&quot;mirror-mirror-on-the-phone&quot;&gt;Mirror Mirror On The Phone&lt;/h3&gt;
+&lt;p&gt;The solution was implemented using Kotlin and Java on Android and integrated to the Focals Companion App. This feature was only available to Retail Team members to support their product demonstration sessions.&lt;/p&gt;
+
+&lt;p&gt;A Screen Cast solution was provided to mirror the display of the glasses on the facilitator’s mobile phone. A user interface was provided to trigger custom messages and notifications to assist the demo session.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Screen Cast solution was provided to mirror the display of the glasses on the facilitator’s mobile phone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/frd/screens.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reflection--takeaways&quot;&gt;Reflection &amp;amp; Takeaways&lt;/h2&gt;
+&lt;p&gt;Product demo &lt;strong&gt;facilitators&lt;/strong&gt; were the &lt;strong&gt;users&lt;/strong&gt; of this project. This feature allowed the facilitator to follow the actions of the person who was participating in the demo by seeing exactly what was supposed to be projected on the glasses. This helped the facilitator to effectively present different product features and to conduct multiple demos per day. Using this feature provided great first impressions to potential users, investors, and influencers.&lt;/p&gt;
+
+&lt;p&gt;Throughout this project, I worked closely with all stakeholders to ensure that a feature complete minimum viable product was delivered on schedule. Working with a multidisciplinary team encouraged me to find opportunities to empathize with my team members and develop skills to identify different thought processes to address any potential confusions. I also developed my skills on leadership and project management.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Weekly reviews with stakeholders ensured that we were “building the right thing”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Since no primary QA resources were allocated to this project, the team tested each other’s development work. This process encouraged the development team to test as they code, which was highly effective and resulted in high quality deliverables with little to no issues.&lt;/p&gt;
+
+&lt;p&gt;It was imperative to keep the original behavior and interactions of the product intact. Building a product demonstration feature on top of the existing platform was challenging and this was overcome by continued collaboration with Production Teams.&lt;/p&gt;
+
+&lt;p&gt;Prioritizing requirements and identifying the must-have-features paved the way for timely delivery of the project. We also had weekly reviews with stakeholders to ensure that we were “building the right thing”.&lt;/p&gt;
+
+&lt;p&gt;From lessons learned, I would conduct follow-up interviews with demo facilitators to learn their experiences after using the feature for sometime. I believe having opportunities in a real-world situation attending demo sessions with potential users, will provide a better understanding of user needs during the early stages of the design process.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ghost</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Mobile Engineering" />
+      
+        <category term="IxD" />
+      
+
+      
+        <summary type="html">A demo experience on Focals smart-glasses to showcase features of the product to potential customers.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
