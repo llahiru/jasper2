@@ -1,3 +1,11 @@
+- title: Prototyping The Future of Smart Glasses
+  description: Focals are custom-built glasses with a display only you can see. My work at North Inc. includes prototypes and early concepts for Focals smart glasses. Amazon Alexa integration, Speech to Text, and Screenshot Share are examples of some of my work that are now productized.
+  type: Project
+  class: post-template
+  tags: [Smart-glasses, Mobile, UX, Prototyping]
+  cover: assets/images/frd/north_pty_cover.jpg
+  url: /prototyping
+
 - title: Interactive Plush toys
   description: A set of farm animals from the magical farm land far far away, made of fabric (plush toys). They come bundled with an interactive educational tablet application.<br /><br />Children can place toys on the tablet screen and the application presents a variety of creative activities based on the type of toy.
   type: Project
@@ -31,7 +39,7 @@
   url: https://www.youtube.com/watch?v=qXrlMdK1SyA
 
 - title: Leamo
-  description: An Interactive Educational Gaming Platform for young children. Leamo helps children develop language, innovative thinking, interactive intelligence, creative thinking skills, psychomotor skills, and reactive skills. Leamo runs on your smartphone ot tablet and easily connects to your television set or a computer screen.
+  description: An Interactive Educational Gaming Platform for young children. Leamo helps children develop language, innovative thinking, interactive intelligence, creative thinking skills, psychomotor skills, and reactive skills. Leamo runs on your smartphone or tablet and easily connects to your television or a computer screen.
   type: Project
   class: post-template
   tags: [iOS, Cocos2D, OpenFrameworks, OpenCV, Qualcomm, Vuforia SDK]

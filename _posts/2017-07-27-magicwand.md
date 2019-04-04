@@ -7,7 +7,7 @@ title: MagicWand
 date: 2017-07-27 10:00:00
 tags: [UX, IxD, Prototyping]
 class: post-template
-subclass: 'post tag-getting-started'
+subclass: 'post'
 author: ghost
 type: Case Study
 description: A handheld device with a fully cylindrical user interface that has a wide range of possible applications, including the use of as a game controller.
@@ -19,7 +19,9 @@ description: A handheld device with a fully cylindrical user interface that has 
 <span class="project-intro">
 **Timeline:** Winter 2016<br />
 **Project:** Research conducted at the Human Media Lab, Queen's University<br />
-**Type:** Product Design, Interaction Design, Prototyping, Research & Evaluation<br /></span>
+**Type:** Product Design, Interaction Design, Prototyping, Research & Evaluation<br />
+**Technologies:** C#, C++, Java, Unity, Arduino, Android<br />
+</span>
 
 ## Affordances Of Digital Devices
 
@@ -93,11 +95,11 @@ This game requires the player to use several tools that fit a cylindrical form f
 {% include image.html url="assets/images/mw/magicwand_compare.jpg" description=" (Top) Flat displays have a display area that can only be viewed from one side, and the visibility is reduced when the device is rotated. (Bottom) When the wand is rotated, the graphics circumnavigate according to IMU data giving the illusion of motion parallax." %}
 
 ## Reflection & Takeaways
-The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and build a game application to showcase its potential.
+The ambition for this project was exciting but also daunting. Building a completely new hardware device and then software applications that runs on it was a huge challenge. During the process I broke more than 20 flexible OLED screens. However, with the help of my team at the end I was able to create a novel display device and built a game application to showcase its potential.
 
-MagicWand was designed with specific design goals and under particular technical constraints. Although the empirical findings support the design rationale, many of the details in the experimental results pertain only to the specific hardware implementation.
+MagicWand was designed with specific design goals and under particular technical constraints. Although the empirical findings support the design rationale, many of the details in the experimental results pertain only to the specific hardware capabilities.
 
-When designing interactions with MagicWand we primarily relied solely on gesture control. All tasks were triggered only using motion gestures, which can be more difficult to discover than touch interactions. Based on these limitations, future work needs to be conducted to explore the interactions with both touch input and gestures combined.
+When designing interactions with MagicWand we relied solely on gesture control. All tasks were triggered only using motion gestures, which can be more difficult to discover than touch interactions. Based on these limitations, future work needs to be conducted to explore the interactions with both touch input and gestures combined.
 
 ## Video
 

@@ -10,7 +10,7 @@ subclass: 'post page'
 <br />
 I am an Engineer and a Designer who is highly interested in Human Computer Interaction, User Experience, Educational Technologies, Organic User Interfaces, Responsive Environments and Computer Sensing.
 
-I started my journey as a Software Engineer then turned into an Entrepreneur, Researcher, and a Designer. In January 2017, I completed my Masters in Human Computer Interaction at Queen's University, Canada and I am fascinated with technology and designs that improves interactions between human and machines.
+I started my journey as a Software Engineer then turned into an Entrepreneur, Researcher, and a Designer. In January 2017, I completed my Masters in Human Computer Interaction at Queen's University, Canada and I am fascinated with technology and designs that improves interactions between humans and machines.
 
 I co-founded Kreyonic, co-invented STEAMBlocks, and was part of Communitech HYPERDRIVE accelerator cohort 3.
 
