@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/frd/cover.jpg
 navigation: True
-title: Focals Retail Demo
+title: Focals Smart-Glasses Retail Demo
 date: 2019-03-25 10:00:00
 tags: [Mobile Engineering, IxD]
 class: post-template
